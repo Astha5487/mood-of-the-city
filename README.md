@@ -339,8 +339,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-Built for **Mindcase Hackathon 2025** · Made with 🎵 and Python
+Built for **Mid-Prep TechGC** · Made with 🎵 and Python
 
-*If this made you curious about what your city is feeling — that's the whole point.*
+*If this made you curious about what your city is feeling - that's the whole point.*
 
 </div>
