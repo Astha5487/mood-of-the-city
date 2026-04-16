@@ -17,9 +17,7 @@
 
 <br/>
 
-![Mood of the City Demo](https://raw.githubusercontent.com/YOUR_USERNAME/mood-of-the-city/main/frontend/preview.png)
-
-**[🌐 Live Demo](https://mood-of-the-city.up.railway.app)** • **[📊 API Docs](https://mood-of-the-city.up.railway.app/docs)** • **[🎥 Video Walkthrough](#)**
+**[🎥 Watch Demo Video](https://drive.google.com/file/d/1p89ay02Z_63w1mIZm6e9tVbHn7J7GglN/preview)**
 
 </div>
 
