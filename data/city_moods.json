@@ -1,0 +1,3064 @@
+{
+  "Mumbai": {
+    "city": "Mumbai",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "dominant_mood": "Romance / Love",
+    "mood_colors": {
+      "primary": "#D4537E",
+      "secondary": "#7F77DD",
+      "glow": "rgba(212,83,126,0.4)"
+    },
+    "mood_distribution": {
+      "Heartbreak / Longing": 44,
+      "Nostalgia / Calm": 56
+    },
+    "emotion_breakdown": {
+      "sadness": 21,
+      "fear": 17,
+      "neutral": 36,
+      "surprise": 9,
+      "anger": 7,
+      "joy": 5,
+      "disgust": 5
+    },
+    "genre_breakdown": {
+      "Romance": {
+        "count": 5,
+        "color": "#E76F51"
+      },
+      "Pop": {
+        "count": 4,
+        "color": "#E9C46A"
+      },
+      "Regional": {
+        "count": 4,
+        "color": "#2A9D8F"
+      },
+      "Bollywood": {
+        "count": 2,
+        "color": "#FF6B6B"
+      },
+      "Party/Dance": {
+        "count": 1,
+        "color": "#F72585"
+      }
+    },
+    "top_genre": "Romance",
+    "insight": "Love is in the air — romantic ballads rule the charts",
+    "song_count": 13,
+    "songs": [
+      {
+        "id": "zpsVpnvFfZQ",
+        "title": "'Chittiyaan Kalaiyaan'",
+        "artist": "T-Series",
+        "url": "https://youtube.com/watch?v=zpsVpnvFfZQ",
+        "thumbnail": null,
+        "views": 1014203439,
+        "genres": [
+          "Pop",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "Checkout the New Song😍😍 \"Zor Ki Barsaat\" 👉https://youtu.be/3kmUS5HlNNc\r\n#JubinNautiyal #AbhishekMalhan #IshaMalviya",
+          "It's July,2025!!! Let's see how many people are listening to this masterpiece.",
+          "2026🤪 me kon kon sun raha hai😂😂"
+        ]
+      },
+      {
+        "id": "sUf2PtEZris",
+        "title": "Shaky  Sanju Rathod",
+        "artist": "Sanju Rathod SR",
+        "url": "https://youtube.com/watch?v=sUf2PtEZris",
+        "thumbnail": null,
+        "views": 712247083,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "You said 𝘴𝘩𝘢𝘬𝘺 𝘴𝘩𝘢𝘬𝘺? All we heard is vibey vibey! 🎶",
+          "Anyone today😂😂😂",
+          "Trending pe aana chahiye ye song kaun kaun chahta h.  \n\n\n\nEdit: thank you for liking my comment and making this song Trending❤"
+        ]
+      },
+      {
+        "id": "cdR7tzSOhtE",
+        "title": "Bombay To Punjab : DEEP JANDU",
+        "artist": "Geet MP3",
+        "url": "https://youtube.com/watch?v=cdR7tzSOhtE",
+        "thumbnail": null,
+        "views": 322698141,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "Divine ki 2 line sunn k fan hone wale Like thoko\n\nEdit:Thanks everyone for 20k response on a Comment",
+          "*1:49* Divine just killed it 🔥",
+          "From 1:49 to 1:59, in just 10 seconds divine made this song a HIT"
+        ]
+      },
+      {
+        "id": "WpBn9w-Js_c",
+        "title": "Sundari  Sanju Rathod",
+        "artist": "Sanju Rathod SR",
+        "url": "https://youtube.com/watch?v=WpBn9w-Js_c",
+        "thumbnail": null,
+        "views": 217222475,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "vibe tar aahe rao 🥰💃🕺",
+          "1 More Global Superhit ❤ 🎉💥❤️",
+          "भावाने मराठीचा दर्जा वाढवला..🔥❤️खरचं जिथं हिंदी,ईंग्लिश,दक्षिणी गाण्यांच आक्रमण होतयं तिथं भावाने बंजारा असुन सुद्धा एकाहाती मराठी झेंडा फडकवला म्हणुनचं त्याला जातीत पाहुन संकुचीत करण्यापेक्षा मातीत आणि भाषेत पहा,आपल्या हक्काचा मराठी माणुस आहे तो,जो की मराठीला जगात गाजवतोय,वाजवतोय..❤🔥"
+        ]
+      },
+      {
+        "id": "FS9dkwhPypY",
+        "title": "DIVINE – Chal Bombay |",
+        "artist": "Mass Appeal India",
+        "url": "https://youtube.com/watch?v=FS9dkwhPypY",
+        "thumbnail": null,
+        "views": 155019334,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "Divine to Tony \"chal bombay tuhje gaana sikhata hu\"😂🔥",
+          "Dont read.the next sentence\n\n.\n.\n.\n.\n\nDear stranger\n Who ever reading this comment may your mother live more than 100 years🤗🤗.",
+          "Bombay ki sabse famous cheez"
+        ]
+      },
+      {
+        "id": "mHN9OaevBkg",
+        "title": "Gaav Sutana",
+        "artist": "Everest Marathi",
+        "url": "https://youtube.com/watch?v=mHN9OaevBkg",
+        "thumbnail": null,
+        "views": 69422732,
+        "genres": [
+          "Regional"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "\"Boyz 4\" Videos | New Marathi Movies 2023\nhttps://bitly.ws/WSmx",
+          "मी राहतो मुंबई ला... ३५० km लांब गावापासून.... भगायला गेलो तर ५ तासाचा रस्ता... पण हे अंतर कापायला ६ महिने लागतात.... 😢😢😢😢",
+          "विविध भावनांची जर एक मोठी यादी बनवली तर त्यामध्ये सर्वात उत्कट भावना ही ‘देशापासून दूर असताना मातृभूमीची येणारी आठवण‘ हीच असू शकते आणि जेव्हा ह्या भावनेवर आधारीत गीत बनते.. ते असेच असते. नक्की ऐका आणि सांगा तुम्हाला कसं वाटलं ते!"
+        ]
+      },
+      {
+        "id": "N_T7_MAs2jI",
+        "title": "",
+        "artist": "T-Series",
+        "url": "https://youtube.com/watch?v=N_T7_MAs2jI",
+        "thumbnail": null,
+        "views": 62394853,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "BB 19 is \"THE ASHNOOR KAUR SEASON\" and she owned this song🔥🔥👑♥️",
+          "I'm loving the comments section full of Ashnoorians 👑🔥✨",
+          "21 sal ki ladki ne sabki fielding set kardi jis se makers aur contestants ki fat gayi BB Queen 👑 ashnoor kaur ❤🔥🎉🎊❤️‍🔥🙌🏻👸"
+        ]
+      },
+      {
+        "id": "hXBsiPU7N5Q",
+        "title": "He Assa Pahila | Kesari  | Virat Madake & Rupa Borgaonkar | Jaydeep Vaidya & Rucha Bondre",
+        "artist": "Zee Music Marathi",
+        "url": "https://youtube.com/watch?v=hXBsiPU7N5Q",
+        "thumbnail": null,
+        "views": 16583884,
+        "genres": [
+          "Regional"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "खूप छान आहे या गाण्याचं बोल 2026 मध्ये कोण ऐकत आहे हे गाणं 🪔🪔🪔",
+          "प्रेम ❤️‍🩹 झाले ना तर सगळया गाण्याचा अर्थ समजतो 🥺💔",
+          "हा गान inatagram वर्ती trend करतोय 2025 मध्ये ❤"
+        ]
+      },
+      {
+        "id": "WsmBJOb-hWU",
+        "title": "Bollywood's Retro Espresso | Staccato | Freshly Brewed",
+        "artist": "Staccato - Contemporary Classic",
+        "url": "https://youtube.com/watch?v=WsmBJOb-hWU",
+        "thumbnail": null,
+        "views": 9192374,
+        "genres": [
+          "Bollywood"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "As a 17-year-old, I think the old songs were way better than what we have nowadays, especially in lyrics.",
+          "Cold foggy late december nights, a hot masala chai in hand, sitting near sabarthi dhabha in 1996 in JNU campus, recollect singing those songs with fellow students. As usual a loyal sincere fan of yours and your passionate team :)",
+          "Someone sent this to me....leaving this comment here,  whenever i'll get any notification regarding this comment... I'll remember that person,  my most special one with a smile in my face.........🤍🧿"
+        ]
+      },
+      {
+        "id": "SHM06YvO-kQ",
+        "title": "SWAGER BOY  PROD. BY YD @yeardown | AISHWARYA HARISHANKAR",
+        "artist": "MAZYA SONYA",
+        "url": "https://youtube.com/watch?v=SHM06YvO-kQ",
+        "thumbnail": null,
+        "views": 7083986,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "ज्यांना मराठी समजत नाही त्यांना भावपूर्ण श्रद्धांजलि 💐🙏",
+          "आम्ही इंस्टाग्राम वरून आलेले नाहीत, आधीच सांगून ठेवतो.... 😌",
+          "I am from West Bengal  Samaj me 0% ❎ enjoy 1000%✅"
+        ]
+      },
+      {
+        "id": "buoT6A58V6I",
+        "title": "\"Mumbai Ke Hero",
+        "artist": "T-Series",
+        "url": "https://youtube.com/watch?v=buoT6A58V6I",
+        "thumbnail": null,
+        "views": 4542714,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Best thing about time is that it changes! From a disaster like Thoofan in 2013 to Indian Industry Hit RRR in 2022. What a comeback to Bollywood- MUMBAI KE HERO! RAM CHARAN",
+          "Now even bollywood is aware of RC after rrr. 🔥🔥",
+          "Bollywood needs Ram Charan more than Ram Charan needs Bollywood"
+        ]
+      },
+      {
+        "id": "yuSRoLZBPtA",
+        "title": "Jaana Hai Bollywood",
+        "artist": "Models",
+        "url": "https://youtube.com/watch?v=yuSRoLZBPtA",
+        "thumbnail": null,
+        "views": 395309,
+        "genres": [
+          "Bollywood"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Biddu has composed the music for Models, India's first all-girl popular music trio of Bombay-based Shawna Ferens and Shiuli Subaya, and Kamayani Singh from New Delhi. This article published in outlook magazine in 1996.",
+          "2025 Kon kon sun rha hai please comment 🙏",
+          "1996. I had just finished college and preparing to go to university. I was 18. Now I'm 40 and still a child by heart."
+        ]
+      }
+    ]
+  },
+  "Delhi": {
+    "city": "Delhi",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "dominant_mood": "Hype / Anger",
+    "mood_colors": {
+      "primary": "#E24B4A",
+      "secondary": "#FF6B35",
+      "glow": "rgba(226,75,74,0.4)"
+    },
+    "mood_distribution": {
+      "Nostalgia / Calm": 81,
+      "Hype / Anger": 19
+    },
+    "emotion_breakdown": {
+      "neutral": 52,
+      "sadness": 15,
+      "fear": 14,
+      "disgust": 6,
+      "anger": 6,
+      "joy": 3,
+      "surprise": 3
+    },
+    "genre_breakdown": {
+      "Pop": {
+        "count": 8,
+        "color": "#E9C46A"
+      },
+      "Regional": {
+        "count": 5,
+        "color": "#2A9D8F"
+      },
+      "Rap/Hip-Hop": {
+        "count": 3,
+        "color": "#FFE66D"
+      }
+    },
+    "top_genre": "Pop",
+    "insight": "Rage & hype dominate — rap and defiance songs surging",
+    "song_count": 15,
+    "songs": [
+      {
+        "id": "15Sjjl_24x0",
+        "title": "Laembadgini  | Diljit Dosanjh | Veet Baljit | Latest Punjabi",
+        "artist": "Speed",
+        "url": "https://youtube.com/watch?v=15Sjjl_24x0",
+        "thumbnail": null,
+        "views": 419187230,
+        "genres": [
+          "Regional"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "India is incomplete without Punjab💫\nAnd Punjab is incomplete without Diljit Dosanjh❤\nEdit:Thanks For The Likes😇",
+          "2026 Walo Attendance plz ❤✨",
+          "Only Diljit Songs from today😂❤️🔥"
+        ]
+      },
+      {
+        "id": "cl0a3i2wFcc",
+        "title": "G.O.A.T.",
+        "artist": "Diljit Dosanjh",
+        "url": "https://youtube.com/watch?v=cl0a3i2wFcc",
+        "thumbnail": null,
+        "views": 355277474,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Watch *_BORN_* *_TO_* *_SHINE_* *_MUSIC_* *_VIDEO_* *_NOW_*  - https://youtu.be/dCmp56tSSmA",
+          "Who came here after the great Indian kapil show knowing that this song was written in 10 minutes by Karan aujla 😂",
+          "I don't know what this man is saying but I like him. trending here in America, great job bro!"
+        ]
+      },
+      {
+        "id": "cdR7tzSOhtE",
+        "title": "Bombay To Punjab : DEEP JANDU",
+        "artist": "Geet MP3",
+        "url": "https://youtube.com/watch?v=cdR7tzSOhtE",
+        "thumbnail": null,
+        "views": 322698141,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Divine ki 2 line sunn k fan hone wale Like thoko\n\nEdit:Thanks everyone for 20k response on a Comment",
+          "*1:49* Divine just killed it 🔥",
+          "From 1:49 to 1:59, in just 10 seconds divine made this song a HIT"
+        ]
+      },
+      {
+        "id": "Kd57YHWqrsI",
+        "title": "Hostel Sharry Mann",
+        "artist": "T-Series Apna Punjab",
+        "url": "https://youtube.com/watch?v=Kd57YHWqrsI",
+        "thumbnail": null,
+        "views": 309747901,
+        "genres": [
+          "Regional"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Tonight is my last night in hostel.\nI am leaving after spemding 4 years.\nIst day b roya tha last day b roraha hun.",
+          "0:40 Maan Sahab in the background ✨",
+          "I never liked or commented on any YouTube video in my life.. This song truly touch my heart and remind me of my college and school friends and I feel like coming back to India.. No matter how hard you try but those days will never come back.. Sad"
+        ]
+      },
+      {
+        "id": "RQaVzbxZqXY",
+        "title": "Diljit Dosanjh | Raat Di Gedi  Neeru Bajwa | Jatinder Shah| Latest Punjabi",
+        "artist": "Speed",
+        "url": "https://youtube.com/watch?v=RQaVzbxZqXY",
+        "thumbnail": null,
+        "views": 232706214,
+        "genres": [
+          "Regional"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "I was dancing on that song on my friend's bro marriage,, my fb crush was there watching me, I wasn't aware that of that, \nNow she is my wife....\nWith that song everything started ❤️❤️❤️",
+          "Hamesa favourite tha ...h.....rahega......jiska rhega wo like kre😍😍😍😍",
+          "Ye song kabhi purana nahi hoga.😉"
+        ]
+      },
+      {
+        "id": "xDMjh6wDL3g",
+        "title": "Masoom Sharma  Swara Verma | Pinna Music | New Haryanvi",
+        "artist": "Lofar",
+        "url": "https://youtube.com/watch?v=xDMjh6wDL3g",
+        "thumbnail": null,
+        "views": 177004493,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "After CSk Win😂❤",
+          "11 tarika ko delhi bale bolenge csk ke dar se😂😂",
+          "CSK wale aagye oye...💀💗"
+        ]
+      },
+      {
+        "id": "T0H_LWLiOGk",
+        "title": "Up To U  | New Rap",
+        "artist": "Dhanda Nyoliwala",
+        "url": "https://youtube.com/watch?v=T0H_LWLiOGk",
+        "thumbnail": null,
+        "views": 155169774,
+        "genres": [
+          "Rap/Hip-Hop"
+        ],
+        "mood_label": "Hype / Anger",
+        "mood_color": "#E24B4A",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Proud To Be A Haryanvi 🫡 #driller",
+          "Etna giru hua hu ki ek line ki vajah se pura gana sun liye😂",
+          "2:04 this is what you are looking for 😂"
+        ]
+      },
+      {
+        "id": "Xi8Fabcb_MA",
+        "title": "Aditya A.",
+        "artist": "Chaand Baaliyan",
+        "url": "https://youtube.com/watch?v=Xi8Fabcb_MA",
+        "thumbnail": null,
+        "views": 85318242,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Lajpat Ngar to Meena Bazar - https://www.youtube.com/watch?v=udmhxfWR2Bs&list=RDudmhxfWR2Bs&start_radio=1",
+          "Laughter chef se kon aya h check krne 😅😅😅",
+          "I'm crying for some reason. Yaar itna pyaara gaana kaun banata hai 😭❤\nEdit :😶2k likes 😶\nBC yeh kaise hogaya. Ab daaru peeke yeh gana nahi sunungi 🙊🤣"
+        ]
+      },
+      {
+        "id": "m4wgLaMpN3Q",
+        "title": "Sector 15  Khasa Aala Chahar | New Haryanvi",
+        "artist": "Dollar Music",
+        "url": "https://youtube.com/watch?v=m4wgLaMpN3Q",
+        "thumbnail": null,
+        "views": 39307954,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "15 sector शहर तेरे म गाडी घूमे यारा की❤",
+          "Aag lga di bhai \nJma 1 no. H🔥🔥🔥🔥",
+          "मुझे तो आज पता चला कि कॉमेंट पर डबल टैप करनें से कमेंट लाइक होता है❤"
+        ]
+      },
+      {
+        "id": "nT8svFnFZh4",
+        "title": "I Think Delhi | The Landers | Neha Anand | Meet Sehra | TeamDG | Latest Punjabi",
+        "artist": "Times Music",
+        "url": "https://youtube.com/watch?v=nT8svFnFZh4",
+        "thumbnail": null,
+        "views": 21590249,
+        "genres": [
+          "Regional"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "I don't know why? But whenever you listen to them,, u will always get happy vibes, rab sukh rakhe,,😁,",
+          "kon kon ye song 2020 me bhi sonegaaa vo sb like krdoo  😃😂😂😂😂",
+          "Why this is not coming frequently on TV , amazing song"
+        ]
+      },
+      {
+        "id": "HDJq4LpXAN0",
+        "title": "Galat Launda – Fotty Seven",
+        "artist": "I-POPSTAR",
+        "url": "https://youtube.com/watch?v=HDJq4LpXAN0",
+        "thumbnail": null,
+        "views": 12079230,
+        "genres": [
+          "Rap/Hip-Hop",
+          "Pop"
+        ],
+        "mood_label": "Hype / Anger",
+        "mood_color": "#E24B4A",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Bhai darta nahi apne baap se\nMatlab tera bhai darta hai bas apne baap se",
+          "Bohot badhiya",
+          "Just as he predicted-\n\"Doori rakhu unse jinke C likha maathe pr\"\n\nStay home stay safe!"
+        ]
+      },
+      {
+        "id": "1XB0odQj_1A",
+        "title": "Lofar | Masoom Sharma  Swara Verma | Pinna Music | New Haryanvi",
+        "artist": "Sky High Music",
+        "url": "https://youtube.com/watch?v=1XB0odQj_1A",
+        "thumbnail": null,
+        "views": 8081573,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "masoom sharma ke gaane kos  sarkar ban kiya hai ki promote Kiya hai jidhar dekho udhar gaane baj rahe hai 😂😂😂",
+          "Sir ji Bihar mei bhi aajo 1:14",
+          "Masoom bhai ki awaaz me bhoot jaan h ❤❤❤❤❤❤❤❤❤❤❤❤❤"
+        ]
+      }
+    ]
+  },
+  "Bangalore": {
+    "city": "Bangalore",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "dominant_mood": "Hype / Anger",
+    "mood_colors": {
+      "primary": "#E24B4A",
+      "secondary": "#FF6B35",
+      "glow": "rgba(226,75,74,0.4)"
+    },
+    "mood_distribution": {
+      "Nostalgia / Calm": 81,
+      "Hype / Anger": 19
+    },
+    "emotion_breakdown": {
+      "neutral": 52,
+      "sadness": 15,
+      "fear": 14,
+      "disgust": 6,
+      "anger": 6,
+      "joy": 3,
+      "surprise": 3
+    },
+    "genre_breakdown": {
+      "Pop": {
+        "count": 7,
+        "color": "#E9C46A"
+      },
+      "Rap/Hip-Hop": {
+        "count": 2,
+        "color": "#FFE66D"
+      },
+      "Romance": {
+        "count": 1,
+        "color": "#E76F51"
+      },
+      "Indie": {
+        "count": 1,
+        "color": "#4ECDC4"
+      }
+    },
+    "top_genre": "Pop",
+    "insight": "Rage & hype dominate — rap and defiance songs surging",
+    "song_count": 11,
+    "songs": [
+      {
+        "id": "01uRBlLAjFg",
+        "title": "Gentleman | Marali Manasaagide | 4K",
+        "artist": "Anand Audio",
+        "url": "https://youtube.com/watch?v=01uRBlLAjFg",
+        "thumbnail": null,
+        "views": 125189527,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Traveling Kasaragod to Mangalore.\nWindow seat+ Rain+ This song+ Earphone= Heaven ❤️❤️💥",
+          "I'm from kerala.I'm started listening kannada songs because of Armaan Malik and Shreya Ghoshal,But now I'm hearing all songs of Arjun janya and Ajaneesh Loknath,my fav musicians",
+          "❤️ From Kerala 🌴🌴🌴\nWho Here After 2021🔥\nIn the time of 2nd wave of corona (Corona2.0) Lockdowntime!!!....\nമലയാളി ഉണ്ടോ???!!!... 😌❤️🔥\n👇"
+        ]
+      },
+      {
+        "id": "xL7FJkIKF-4",
+        "title": "LOVE 360 | Jagave Neenu I Music",
+        "artist": "Anand Audio",
+        "url": "https://youtube.com/watch?v=xL7FJkIKF-4",
+        "thumbnail": null,
+        "views": 54514478,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "I am from North Eastern part of 🇮🇳 India, but I really likes South indian peoples ,..their cultures theirs dresses..,their traditional food  and specially music 🎶 🥺🥺..",
+          "Am from Odisha , I didn't understand kanada language but Really am saying one thing  ' This song always made my day ' love ❤ much from my side ... awesome singing  yar ..... if it's possible for me I gave Oscar award to him for this song",
+          "1st time ~ Not Bad☺\r\n2nd time ~ Good Song🤗\r\n3rd time ~ Wow Song🥰\r\n4th time ~ bere Level Song💥\r\n5th time ~ Addicted...😌❤"
+        ]
+      },
+      {
+        "id": "EW4pNzAbVao",
+        "title": "Bombay Dreams",
+        "artist": "KSHMR & Lost Stories",
+        "url": "https://youtube.com/watch?v=EW4pNzAbVao",
+        "thumbnail": null,
+        "views": 48203434,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Check out the Dharma Worldwide YouTube Channel for more music: https://www.youtube.com/dharmaworldwide",
+          "Hi guys,\nI'm Pranit Sahni the director of this music video. The love and adoration you guys have been pouring in is heartwarming. Our young team worked tirelessly to execute this video. If you have any questions about it please drop a reply and I'll answer them all. Thank you",
+          "love from Kerala 😍❤️"
+        ]
+      },
+      {
+        "id": "v-icNVDbVLk",
+        "title": "Brodha V LIVE in Bangalore",
+        "artist": "AIGIRI NANDINI [Hip Hop Version]",
+        "url": "https://youtube.com/watch?v=v-icNVDbVLk",
+        "thumbnail": null,
+        "views": 40837300,
+        "genres": [
+          "Rap/Hip-Hop"
+        ],
+        "mood_label": "Hype / Anger",
+        "mood_color": "#E24B4A",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Goosebumps. Sanatani Attendance 🚩",
+          "This guys,right here,is how you represent India.",
+          "Finally someone who isn't rapping about girls, party, booz, Lamborghini, money, Jewelry and shit . Really good work by brodha v. Huge Respect"
+        ]
+      },
+      {
+        "id": "99138T2WeOQ",
+        "title": "Gudugudiya Sedi Nodo | Raghu Dixit | Courtyard Jam Sessions",
+        "artist": "Raghu Dixit Music",
+        "url": "https://youtube.com/watch?v=99138T2WeOQ",
+        "thumbnail": null,
+        "views": 29537521,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "I m from chennai. But past 5 years I have been working in Bangalore. Kannada such a wonderful language. Finally learnt it much happy 😊",
+          "I'm from USA 🇺🇸 California I love this song I love karnataka people I love Bangalore ❤❤❤miss u lots Bangalore",
+          "Welcome for seeing still on 2026😂"
+        ]
+      },
+      {
+        "id": "eb7jLoU9x64",
+        "title": "KEHNA HI KYA | Bombay | K S Chitra | 55th Bengaluru Ganesh Utsava 2017",
+        "artist": "Bengaluru Ganesh Utsava",
+        "url": "https://youtube.com/watch?v=eb7jLoU9x64",
+        "thumbnail": null,
+        "views": 29063581,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "She is the most awarded Indian singer in history with 245 Awards won. She ranks among the 10 most awarded singers in the world!!!!",
+          "Almost 25 years passed still the same voice , no words to express . chitra madam pride of India.",
+          "No body expect the male voice. . It’s was fire 🔥 ❤"
+        ]
+      },
+      {
+        "id": "fclPhO1FsOY",
+        "title": "ಇನ್ನುನೂ ಬೇಕಾಗಿದೆ । ವಾಸುಕಿ ವೈಭವ್ । ರಾಧಿಕಾ, ಪ್ರವೀಣ್, ಅನನ್ಯ । ವಿನಯ್",
+        "artist": "ಮುಂದಿನ ನಿಲ್ದಾಣ",
+        "url": "https://youtube.com/watch?v=fclPhO1FsOY",
+        "thumbnail": null,
+        "views": 24599828,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "I am a Marathi, saw two girls singing this song on a Reel.. Immediately searched this..😇😍 Now love this song...",
+          "This song became a massive hit after Mokshitha performed it on Bigg Boss 11. Her singing brought back the emotional feel of her broken friendship with Gowthami and Manjanna. Like if you agree!❤",
+          "ಇವತ್ತಿನ ಬಿಗ್ ಬಾಸ್ ನೋಡಿ ಬಂದೆ 😢😢 ಮೋಕ್ಷಿತಾ ❤"
+        ]
+      },
+      {
+        "id": "e4h0VoZpdI8",
+        "title": "Lokada Kalaji  | Raghu Dixit | Courtyard Jam Sessions",
+        "artist": "Raghu Dixit Music",
+        "url": "https://youtube.com/watch?v=e4h0VoZpdI8",
+        "thumbnail": null,
+        "views": 9563516,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Anyone here after Eureka stories?❤️",
+          "Came here after watching eureka stories ❤",
+          "ഉണ്ണി നമ്പൂതിരി ❤️"
+        ]
+      },
+      {
+        "id": "BHzs9DVYLTo",
+        "title": "Bangalore Times – Flirt with Your City Rap",
+        "artist": "Times Music",
+        "url": "https://youtube.com/watch?v=BHzs9DVYLTo",
+        "thumbnail": null,
+        "views": 3486446,
+        "genres": [
+          "Rap/Hip-Hop"
+        ],
+        "mood_label": "Hype / Anger",
+        "mood_color": "#E24B4A",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Everyone is here for kicha... Am I the only one whose here for Brodha V ? Lit af 🔥",
+          "Of the 4 cities, I think Bengaluru's is the best-scored one. Awesome rap & and visual entertainment. Thanks to JWT for making this.\nAlthough I am from Kolkata but can't help it, this has to be the best one. \nRespect: \\;;/ Sudeep // Brodha V \\;;/",
+          "one of the best ad track... awesome.... proud to be kannadiga... proud to be bangaluriga"
+        ]
+      },
+      {
+        "id": "OnuD1HtzFGc",
+        "title": "Chikkama  With Subs | Foxn | Paal Dabba | Think Indie",
+        "artist": "Vengayo",
+        "url": "https://youtube.com/watch?v=OnuD1HtzFGc",
+        "thumbnail": null,
+        "views": 3361367,
+        "genres": [
+          "Indie"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Anyone after Jodi dance",
+          "EDITOR dhaan da main Chikkam!!!⚡💥",
+          "Kvoid + vengayo + Paaldabba = 💥💥💥💥"
+        ]
+      },
+      {
+        "id": "NGqZcHZ4k44",
+        "title": "Bangalore",
+        "artist": "soft location - Topic",
+        "url": "https://youtube.com/watch?v=NGqZcHZ4k44",
+        "thumbnail": null,
+        "views": 279,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": []
+      }
+    ]
+  },
+  "Kolkata": {
+    "city": "Kolkata",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "dominant_mood": "Romance / Love",
+    "mood_colors": {
+      "primary": "#D4537E",
+      "secondary": "#7F77DD",
+      "glow": "rgba(212,83,126,0.4)"
+    },
+    "mood_distribution": {
+      "Nostalgia / Calm": 35,
+      "Romance / Love": 23,
+      "Hype / Anger": 11,
+      "Heartbreak / Longing": 26,
+      "Devotion / Spiritual": 6
+    },
+    "emotion_breakdown": {
+      "neutral": 33,
+      "sadness": 23,
+      "fear": 15,
+      "disgust": 3,
+      "anger": 4,
+      "joy": 5,
+      "surprise": 13
+    },
+    "genre_breakdown": {
+      "Romance": {
+        "count": 7,
+        "color": "#E76F51"
+      },
+      "Bollywood": {
+        "count": 4,
+        "color": "#FF6B6B"
+      },
+      "Pop": {
+        "count": 3,
+        "color": "#E9C46A"
+      },
+      "Folk": {
+        "count": 1,
+        "color": "#F4A261"
+      },
+      "Regional": {
+        "count": 1,
+        "color": "#2A9D8F"
+      },
+      "Party/Dance": {
+        "count": 1,
+        "color": "#F72585"
+      },
+      "Rap/Hip-Hop": {
+        "count": 1,
+        "color": "#FFE66D"
+      }
+    },
+    "top_genre": "Romance",
+    "insight": "Love is in the air — romantic ballads rule the charts",
+    "song_count": 11,
+    "songs": [
+      {
+        "id": "GuGYYdwcPYw",
+        "title": "COMPANY",
+        "artist": "EMIWAY",
+        "url": "https://youtube.com/watch?v=GuGYYdwcPYw",
+        "thumbnail": null,
+        "views": 283814250,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Hosh Mei Company",
+          "Old EMIWAY BANTAI 🔥😎",
+          "10M complete within 9days only with 830K+ likes and 100K comments thats the power of bantai ki public 💥🔥"
+        ]
+      },
+      {
+        "id": "nu2MOmczxwQ",
+        "title": "KHATAM HUE WAANDE",
+        "artist": "EMIWAY",
+        "url": "https://youtube.com/watch?v=nu2MOmczxwQ",
+        "thumbnail": null,
+        "views": 256200308,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "1 .mchayenge\n2 .phir se machyayenge\n3 .phir se machayenge remix \n4 . And this 🔥🔥🔥🔥🔥🔥",
+          "Another One 🔥🔥🔥",
+          "Bhai aap jo bolte ho wo muh pe chipak jaata hai ... Hatsssss offf 🔥🔥🔥🔥"
+        ]
+      },
+      {
+        "id": "5f1O74GwWJM",
+        "title": "Ankita Bhattacharyya | Bengali Folk",
+        "artist": "KOMOLA",
+        "url": "https://youtube.com/watch?v=5f1O74GwWJM",
+        "thumbnail": null,
+        "views": 229238921,
+        "genres": [
+          "Folk",
+          "Regional",
+          "Party/Dance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "KOMOLA Kemon laglo? ❤️\nJanaben prottekke 🙏🙏",
+          "আমি একজন নেপালি জাতির লোক। বাংলা মাধ্যমে পড়াশোনা করেছি। বাংলা গান ও বাঙালিদের সংস্কৃতি খুব আমার মনের কাছের।",
+          "বাঙালি কিন্তু পশ্চিম এর 😅.. পশ্চিমবঙ্গ এর তবে এই গানগুলো শুনলে একবারের জন্যও মনে হয় না যে মাঝখানের কাঁটাতারের বেড়া আমাদের মনকে আটক করে রাখতে পারবে। খুব ভালো লাগলো 😊❤️।"
+        ]
+      },
+      {
+        "id": "Tt-mCnzPK-o",
+        "title": "Aashona | Borbaad | Bonny | Rittika | Arijit | Prashmita | Arindom | Raj Chakraborty | SVF",
+        "artist": "SVF",
+        "url": "https://youtube.com/watch?v=Tt-mCnzPK-o",
+        "thumbnail": null,
+        "views": 100655439,
+        "genres": [
+          "Pop"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Большая четвёрка артистов современной российской музыки неожиданно для всех презентовала совместную ",
+        "emotion_scores": {
+          "neutral": 52,
+          "sadness": 15,
+          "fear": 14,
+          "disgust": 6,
+          "anger": 6,
+          "joy": 3,
+          "surprise": 3
+        },
+        "top_comments": [
+          "Here on April 2025🙂💗",
+          "my little sis 2years old she so much loved this song.I'm so socked😄",
+          "Arijit is Rock ........"
+        ]
+      },
+      {
+        "id": "LY_rMXXuJp8",
+        "title": "Ram Sampath, Sona Mohapatra & Rituraj Mohanty - Coke Studio@MTV Season 4",
+        "artist": "Rangabati",
+        "url": "https://youtube.com/watch?v=LY_rMXXuJp8",
+        "thumbnail": null,
+        "views": 85110355,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 26,
+          "neutral": 24,
+          "surprise": 22,
+          "joy": 17,
+          "fear": 9,
+          "anger": 1,
+          "disgust": 1
+        },
+        "top_comments": [
+          "Tomorrow is utkal diwas 2026",
+          "I am from Maharashtra. Stayed in Odisha for 3 years for studies. This is masterpiece. Goosebumps, especially when he starts singing Bande utkal janani...",
+          "being a \"Punjabi\", i  can sing the whole song including \"bande utkal janani\".😊"
+        ]
+      },
+      {
+        "id": "U2xrwSBJjGM",
+        "title": "Ei Bhalo Ei Kharap | Golpo Holeo Shotti | Soham | Mimi | Arijit Singh | Monali Thakur | Indraadip",
+        "artist": "SVF",
+        "url": "https://youtube.com/watch?v=U2xrwSBJjGM",
+        "thumbnail": null,
+        "views": 42022379,
+        "genres": [
+          "Rap/Hip-Hop",
+          "Romance"
+        ],
+        "mood_label": "Hype / Anger",
+        "mood_color": "#E24B4A",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 28,
+          "surprise": 26,
+          "fear": 23,
+          "joy": 11,
+          "neutral": 11,
+          "anger": 1,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Arijit Singh at his best!",
+          "Arijit sing is a oosm singer and female voice monali thakur.. ei valo ei kharap song is a very sweet and beautifull dute song.. er poreo aro valo song onara amader deben...i wish..",
+          "After a long time such a romantic video has graced our screen. Recommended."
+        ]
+      },
+      {
+        "id": "t99Z5ym-nJY",
+        "title": "\"Jodi Abar\"",
+        "artist": "Angel Noor",
+        "url": "https://youtube.com/watch?v=t99Z5ym-nJY",
+        "thumbnail": null,
+        "views": 14259446,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 27,
+          "surprise": 15,
+          "fear": 11,
+          "neutral": 11,
+          "anger": 1,
+          "joy": 1,
+          "disgust": 0
+        },
+        "top_comments": [
+          "প্রিয় এনজেল,\nঠিক কতোটা ভালবাসলে কেও এরকম গান সৃষ্টি করতে পারে বলতে পারো? তোমার ভালবাসার গভীরতা কত বেশি তুমি নিজেই হয়তো বুঝতে পারছো না। \nতোমার চেহারা,কন্ঠস্বর,চিন্তাভাবনা ও সৃষ্টিতে সৃষ্টিকর্তার যে অলৌকিক আশির্বাদ রয়েছে তা যে কেও উপলব্ধি করতে বাধ্য। 'যদি আবার' শুধু একটি গান নয়,এটি হাজার বছরে একবার জন",
+          "নোটিফিকেশন পেলে আবার শুনতে আসবো এই masterpiece song 😊💔",
+          "আমার পছন্দের একটা গান | যদি কেউ কোনো দিন আমার কমেন্টে লাইক করে সেদিন আমি আবার গানটি শুনতে আসব |"
+        ]
+      },
+      {
+        "id": "nKC0J6696IA",
+        "title": "When Football Meets Bollywood: Messi Shakes Hands With Shah Rukh Khan in Kolkata",
+        "artist": "The Financial Express",
+        "url": "https://youtube.com/watch?v=nKC0J6696IA",
+        "thumbnail": null,
+        "views": 123742,
+        "genres": [
+          "Bollywood",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 33,
+          "neutral": 24,
+          "surprise": 23,
+          "fear": 16,
+          "anger": 2,
+          "joy": 2,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Have they never heard of security?😂",
+          "Thank god he survived and could leave in good health!",
+          "im not sure if messi knows khan"
+        ]
+      },
+      {
+        "id": "ul2DDQn4OSU",
+        "title": "Best Bollywood Flashmob Proposal in Kolkata",
+        "artist": "OutboxSurprises",
+        "url": "https://youtube.com/watch?v=ul2DDQn4OSU",
+        "thumbnail": null,
+        "views": 15918,
+        "genres": [
+          "Bollywood",
+          "Romance"
+        ],
+        "mood_label": "Devotion / Spiritual",
+        "mood_color": "#9B59B6",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 30,
+          "surprise": 25,
+          "fear": 25,
+          "neutral": 15,
+          "joy": 3,
+          "anger": 1,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Coming here after Shark Tank India.. Great stuff guys.. but in my humble personal opinion you guys should probably work on your branding especially logo. Your logo looks like courier service company. Otherwise great stuff..",
+          "Great surprise.  Hope best for your future life",
+          "And i think this video's ratio in not matched u tube video ratio"
+        ]
+      },
+      {
+        "id": "L5GNLqL8kQQ",
+        "title": "Kolkata Diaries",
+        "artist": "Hello Bollywood",
+        "url": "https://youtube.com/watch?v=L5GNLqL8kQQ",
+        "thumbnail": null,
+        "views": 2468,
+        "genres": [
+          "Bollywood",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 38,
+          "surprise": 26,
+          "neutral": 19,
+          "fear": 13,
+          "anger": 2,
+          "joy": 1,
+          "disgust": 1
+        },
+        "top_comments": [
+          "What name the 2nd cloths house \nPlz tell me plz"
+        ]
+      },
+      {
+        "id": "fFvvyDo0zjU",
+        "title": "Vidya Balan Talks About Kolkata And Her Movie Kahaani - Latest Bollywood Updates",
+        "artist": "Bollywood World",
+        "url": "https://youtube.com/watch?v=fFvvyDo0zjU",
+        "thumbnail": null,
+        "views": 1465,
+        "genres": [
+          "Bollywood",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 40,
+          "surprise": 25,
+          "neutral": 17,
+          "fear": 14,
+          "anger": 2,
+          "joy": 1,
+          "disgust": 1
+        },
+        "top_comments": []
+      }
+    ]
+  },
+  "Chennai": {
+    "city": "Chennai",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "dominant_mood": "Romance / Love",
+    "mood_colors": {
+      "primary": "#D4537E",
+      "secondary": "#7F77DD",
+      "glow": "rgba(212,83,126,0.4)"
+    },
+    "mood_distribution": {
+      "Hype / Anger": 15,
+      "Heartbreak / Longing": 60,
+      "Romance / Love": 19,
+      "Nostalgia / Calm": 7
+    },
+    "emotion_breakdown": {
+      "surprise": 22,
+      "sadness": 34,
+      "neutral": 17,
+      "fear": 10,
+      "joy": 12,
+      "anger": 2,
+      "disgust": 1
+    },
+    "genre_breakdown": {
+      "Romance": {
+        "count": 15,
+        "color": "#E76F51"
+      },
+      "Regional": {
+        "count": 3,
+        "color": "#2A9D8F"
+      },
+      "Indie": {
+        "count": 1,
+        "color": "#4ECDC4"
+      },
+      "Rap/Hip-Hop": {
+        "count": 1,
+        "color": "#FFE66D"
+      }
+    },
+    "top_genre": "Romance",
+    "insight": "Love is in the air — romantic ballads rule the charts",
+    "song_count": 15,
+    "songs": [
+      {
+        "id": "W9mrvDWUR9g",
+        "title": "One Two Three Four Chennai Express",
+        "artist": "T-Series",
+        "url": "https://youtube.com/watch?v=W9mrvDWUR9g",
+        "thumbnail": null,
+        "views": 276245491,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Hype / Anger",
+        "mood_color": "#E24B4A",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "surprise": 41,
+          "sadness": 27,
+          "neutral": 18,
+          "fear": 9,
+          "joy": 3,
+          "anger": 2,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Proud to be part of this song as a background dancer 💞",
+          "Who's here watching the song now. And recognised that Suchi from The Family Man is in the song as main. 📸",
+          "Priyamani : Kerala\nDeepika : Karnataka \nSRK : North India\nPlace : Chennai \nThis Is My India 🇮🇳"
+        ]
+      },
+      {
+        "id": "VU23OPQ1Pmc",
+        "title": "Katchi Sera  | Samyuktha | Ken Royson | Think Indie",
+        "artist": "@SaiAbhyankkar",
+        "url": "https://youtube.com/watch?v=VU23OPQ1Pmc",
+        "thumbnail": null,
+        "views": 261677137,
+        "genres": [
+          "Indie",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 26,
+          "surprise": 19,
+          "joy": 15,
+          "neutral": 14,
+          "fear": 9,
+          "anger": 1,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Hello makkale ! This is Sai Abhyankkar ! It’s extremely heartwarming to see all your responses ! Keep all the love and support flowing ! Love you all ❤ Romba Nandri makkaleyy .. GIG 😊",
+          "Who are all watching this Masterpiece after pavazha malli 👀🌷",
+          "10 th board - Kanchi sera ❤\n12 th board - Pavazha Malli 🎉"
+        ]
+      },
+      {
+        "id": "WxtJqyIyThU",
+        "title": "Kashmir Main Tu Kanyakumari|Chennai Express |Shahrukh K, Deepika P,Sunidhi C,Arijit S,Neeti",
+        "artist": "T-Series",
+        "url": "https://youtube.com/watch?v=WxtJqyIyThU",
+        "thumbnail": null,
+        "views": 174630319,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 30,
+          "neutral": 21,
+          "joy": 18,
+          "surprise": 17,
+          "fear": 10,
+          "anger": 3,
+          "disgust": 1
+        },
+        "top_comments": [
+          "We want this, Not Besharam rang 🥺",
+          "This song also indicates the 'unity in diversity' of India🇮🇳",
+          "\"Agar wo meri sabse acchi dost nhi ban sakti to main usse...kabhi pyar kar hi sakta' this song represents...that unending friendship which srk said in kuch kuch hota hai....❤️✨"
+        ]
+      },
+      {
+        "id": "2gWbNcgZFM0",
+        "title": "Tere Ishk Mein  | Dhanush, Kriti S | AR Rahman, Arijit Singh, Irshad K | Aanand LR | Bhushan K",
+        "artist": "T-Series",
+        "url": "https://youtube.com/watch?v=2gWbNcgZFM0",
+        "thumbnail": null,
+        "views": 128367260,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 40,
+          "surprise": 29,
+          "neutral": 15,
+          "fear": 10,
+          "joy": 4,
+          "anger": 1,
+          "disgust": 1
+        },
+        "top_comments": [
+          "Tere Ishk Mein❤‍🔥❤‍🔥",
+          "Tere Ishk Mein 🔥❤️",
+          "No Filmfare, No Oscar, No Grammy. No Award In The World can justify the level of Arijit's voice and the feel he sings with. Arijit sir is not a voice. He is a feeling, an emotion. He is immortal. So lucky to have him in our generation 😭❤️✨🙏🏻"
+        ]
+      },
+      {
+        "id": "Qhwafoo7Pnc",
+        "title": "Aawaara Angaara : Tere Ishk Mein | Dhanush, Kriti | AR Rahman,Faheem|Aanand LR|Bhushan K",
+        "artist": "T-Series",
+        "url": "https://youtube.com/watch?v=Qhwafoo7Pnc",
+        "thumbnail": null,
+        "views": 127499887,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 50,
+          "surprise": 18,
+          "neutral": 17,
+          "fear": 10,
+          "joy": 3,
+          "anger": 1,
+          "disgust": 1
+        },
+        "top_comments": [
+          "उलझी है जिंदगी संवार लो ना मां,,,,\n \n*डिप्रेशन में हु सम्भाल लो ना मां🙇🏻‍♀️!!*",
+          "Aaj 02-04-2026 hai aaj sun rhi hu ye song , kl bhi suna tha ,kl bhi sunungi😅😅😅, is saal suna h , peechle saal bhi suna tha, agle saal bhi sunungi 😂😂🤣🤣🤣🤭🤭……,,, jabtak zinda hu tabtak sunti rahungi tab tak 😂😂. Sorry 5k like hote hi youtube ne ap logo ka reply krne ka option hata diya ❤❤",
+          "सब बदल जाते है यार भी प्यार भी,\nबस एक मां की मोहब्बत नही बदलती…!❤❤❤❤ कौन कौन को लगता है ये सही बात❤❤❤❤है❤❤😢😢"
+        ]
+      },
+      {
+        "id": "s20GxxYUhfA",
+        "title": "Ennadi Maayavi Nee",
+        "artist": "VADACHENNAI",
+        "url": "https://youtube.com/watch?v=s20GxxYUhfA",
+        "thumbnail": null,
+        "views": 97237981,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 26,
+          "joy": 23,
+          "neutral": 22,
+          "surprise": 17,
+          "fear": 9,
+          "anger": 1,
+          "disgust": 1
+        },
+        "top_comments": [
+          "I am from Karnataka.\nTo be very frank ; only Tamil industry can give such movies very often.\nAwesome movie and song ❤️",
+          "*1st time - Idhellam oru paatta* 😪\n*2nd time - ok* 🤐\n*3rd time - nalla thaan iruku* 😢\n*4rth time - Vera Level* 🔥\n*5th time - addicted* 🥺",
+          "മലയാളി എന്ന സ്ഥിതിക്ക് ഇവിടെയൊന്നു നീലം മുക്കി പോയാൽ മതി ,,,,,,,,, ❤️❤️🥰🥰🥰"
+        ]
+      },
+      {
+        "id": "IARc_LBgQZE",
+        "title": "Paththavaikkum | Devara Second Single | NTR | Janhvi Kapoor | Anirudh | Deepthi Suresh | 27 Sep 2024",
+        "artist": "T-Series Tamil",
+        "url": "https://youtube.com/watch?v=IARc_LBgQZE",
+        "thumbnail": null,
+        "views": 41126639,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Hype / Anger",
+        "mood_color": "#E24B4A",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 30,
+          "joy": 24,
+          "neutral": 18,
+          "surprise": 18,
+          "fear": 9,
+          "anger": 1,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Who miss anirudh In Goat Movie -------",
+          "That “Ah” from anirudh is vere level😅",
+          "Actor -tollywood 👑\nHeroine-bollywood❤️‍🔥\nMusician-kollywood🪷🫶"
+        ]
+      },
+      {
+        "id": "IGti1RTS1wc",
+        "title": "Deewaana Deewaana : Tere Ishk Mein | Dhanush, Kriti | AR Rahman | Aanand LR | Bhushan K",
+        "artist": "T-Series",
+        "url": "https://youtube.com/watch?v=IGti1RTS1wc",
+        "thumbnail": null,
+        "views": 30754819,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 36,
+          "surprise": 23,
+          "neutral": 21,
+          "fear": 9,
+          "joy": 7,
+          "anger": 2,
+          "disgust": 1
+        },
+        "top_comments": [
+          "April 15 Anyone??",
+          "April 14 anyone??😭",
+          "Played it at 2 A.M. on loud speaker full vol My neighbours liked it so much that they threw stones at my window to hear it clearly"
+        ]
+      },
+      {
+        "id": "uG_p0ULRYho",
+        "title": "Aawaara Angaara  | Tere Ishk Mein |Dhanush,Kriti |AR Rahman,Faheem|Aanand LR|Bhushan K",
+        "artist": "T-Series",
+        "url": "https://youtube.com/watch?v=uG_p0ULRYho",
+        "thumbnail": null,
+        "views": 20633443,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 29,
+          "neutral": 27,
+          "surprise": 26,
+          "fear": 10,
+          "joy": 6,
+          "anger": 2,
+          "disgust": 1
+        },
+        "top_comments": [
+          "All India Dhanush Fans 📈💥",
+          "किसी एक के चले जाने से जिंदगी अधूरी नहीं होती, लेकिन लाखों के मिल जाने से भी उस एक की कमी पूरी नहीं होती\"",
+          "Director ko 1 lakh topo ki salami jis tarike se varanasi ko piroya hai iss video me aur feeling wow\nRaanjhana movie ki yaad dila diya😢😢"
+        ]
+      },
+      {
+        "id": "CwYN2R7AqcE",
+        "title": "PUTTU PAALKOTTA | GANA BALACHANDAR | CB VINITH | DADSON GANA",
+        "artist": "Gana Balachandar Official",
+        "url": "https://youtube.com/watch?v=CwYN2R7AqcE",
+        "thumbnail": null,
+        "views": 14038871,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 28,
+          "neutral": 19,
+          "surprise": 16,
+          "fear": 11,
+          "joy": 6,
+          "anger": 3,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Insta reels pathuttu vandavaga yarru😅🖐️",
+          "Anna lyrics voice video super anna💥☄️🔥🔥🔥",
+          "BRO  NEXT  TVK KU  SONG PAADU BRO❤🇪🇸🇪🇸 Romba nallairukkum bro"
+        ]
+      },
+      {
+        "id": "XgcIBtO4bQQ",
+        "title": "Macarena",
+        "artist": "Lahari Music and Behindwoods TV",
+        "url": "https://youtube.com/watch?v=XgcIBtO4bQQ",
+        "thumbnail": null,
+        "views": 10304332,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "joy": 32,
+          "sadness": 24,
+          "surprise": 14,
+          "fear": 9,
+          "neutral": 3,
+          "anger": 1,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Very happy to see all of you enjoy the songs of Moonwalk. Macarena is special too. I really liked dancing with the kids. They were terrific. Hard training for me and them by Piyush and Shazia😄\n\nHope you will like it. Love you all 😍❤️",
+          "“In my very first film, which beautifully blends both isaipuyal & nadanapuyal , I got the opportunity to perform in such an amazing song. I’m truly very happy about it. During the making of this song, we had several fun and memorable moments on set. A special thanks to our director, Manoj sir, for s",
+          "வணக்கம் மக்களே ❤"
+        ]
+      },
+      {
+        "id": "VKMyYO2g6Fc",
+        "title": "Namma Chennai Chancey Illa | Anirudh | The Times Of India Celebrate The Unique Nuances Of Chennai",
+        "artist": "Junglee Music Telugu",
+        "url": "https://youtube.com/watch?v=VKMyYO2g6Fc",
+        "thumbnail": null,
+        "views": 5503687,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 43,
+          "surprise": 21,
+          "neutral": 15,
+          "joy": 10,
+          "fear": 9,
+          "anger": 1,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Anyone in 2026?",
+          "I am from the North. But; If you want to see the Purest form of Love and friendship, you have to Live in Chennai !!",
+          "Chennai is not City is a Emotion."
+        ]
+      }
+    ]
+  },
+  "Hyderabad": {
+    "city": "Hyderabad",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "dominant_mood": "Hype / Anger",
+    "mood_colors": {
+      "primary": "#E24B4A",
+      "secondary": "#FF6B35",
+      "glow": "rgba(226,75,74,0.4)"
+    },
+    "mood_distribution": {
+      "Nostalgia / Calm": 24,
+      "Heartbreak / Longing": 29,
+      "Devotion / Spiritual": 7,
+      "Hype / Anger": 33,
+      "Romance / Love": 7
+    },
+    "emotion_breakdown": {
+      "sadness": 29,
+      "neutral": 22,
+      "surprise": 20,
+      "joy": 11,
+      "fear": 12,
+      "anger": 2,
+      "disgust": 0
+    },
+    "genre_breakdown": {
+      "Romance": {
+        "count": 14,
+        "color": "#E76F51"
+      },
+      "Regional": {
+        "count": 5,
+        "color": "#2A9D8F"
+      },
+      "Party/Dance": {
+        "count": 3,
+        "color": "#F72585"
+      },
+      "Pop": {
+        "count": 1,
+        "color": "#E9C46A"
+      },
+      "Rap/Hip-Hop": {
+        "count": 1,
+        "color": "#FFE66D"
+      },
+      "Folk": {
+        "count": 1,
+        "color": "#F4A261"
+      }
+    },
+    "top_genre": "Romance",
+    "insight": "Rage & hype dominate — rap and defiance songs surging",
+    "song_count": 14,
+    "songs": [
+      {
+        "id": "8RAd-_Qj_ac",
+        "title": "PEELINGS  | Pushpa 2 The Rule | Allu Arjun | Rashmika Mandanna | Sukumar | DSP",
+        "artist": "T-Series Telugu",
+        "url": "https://youtube.com/watch?v=8RAd-_Qj_ac",
+        "thumbnail": null,
+        "views": 246693722,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 30,
+          "neutral": 25,
+          "surprise": 18,
+          "joy": 12,
+          "fear": 11,
+          "anger": 3,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Any one today 😂",
+          "\"Mallu Arjun title and this song hits emotionally for Malayalees!\" 🥹❤",
+          "0:14 mallu Allu Arjun that’s the love for us mallus which he is giving back ♥️"
+        ]
+      },
+      {
+        "id": "qaf4cDPsW68",
+        "title": "Hey Rangule | Amaran | Sivakarthikeyan, Sai Pallavi | GV Prakash | Rajkumar| Kamal Haasan| Mahendran",
+        "artist": "Saregama Telugu",
+        "url": "https://youtube.com/watch?v=qaf4cDPsW68",
+        "thumbnail": null,
+        "views": 136822381,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 25,
+          "neutral": 20,
+          "surprise": 19,
+          "joy": 9,
+          "fear": 9,
+          "anger": 1,
+          "disgust": 0
+        },
+        "top_comments": [
+          "The wait is over - the Dhurandhar Title Track is finally here! Check it out!\r\nhttps://youtu.be/1a5nyrMtRsk",
+          "Actor + Dancer +Singer + Pan World Star + Craze Kaa Baap + Motivater + Handsome + A man with Diamond heart = Sivakarthikeyan Sir",
+          "*no one can replace sai pallavi's acting💯🔥*"
+        ]
+      },
+      {
+        "id": "8FOG4vhc8q8",
+        "title": "Nijame Ne",
+        "artist": "Aditya Music",
+        "url": "https://youtube.com/watch?v=8FOG4vhc8q8",
+        "thumbnail": null,
+        "views": 110248747,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "neutral": 27,
+          "sadness": 25,
+          "surprise": 16,
+          "fear": 10,
+          "joy": 4,
+          "anger": 1,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Listen & Enjoy Vishwanath & Sons Teaser OST ► https://youtu.be/NkHz_2Ea4t8",
+          "తానానే నానానే నానానేనా\nతానానే నానానేనే\nతానానే నానానే నానానేనా\nతారారే రారారరే\n\nనిజమేనే చెబుతున్న జానే జానా\nనిన్నే నే ప్రేమిస్తున్నా\nనిజమేనే చెబుతున్న ఏదేమైనా\nనా ప్రాణం నీదంటున్నా\nవెళ్లకే వదిలెల్లకే\nనా గుండెని దోసేసిలా\nచల్లకే వెదజల్లేకే\nనా చుట్టూ రంగుల్నిలా\n\nతానారే రారారే రారారేనా\nతారారే నానారెరే\nతానా",
+          "Only e song  కోసమే థియేటర్ కు entha madhi పోయారు ❤❤❤"
+        ]
+      },
+      {
+        "id": "5kzM6m33DTo",
+        "title": "BRAHMĀSTRA  | Kumkumala",
+        "artist": "Sony Music South",
+        "url": "https://youtube.com/watch?v=5kzM6m33DTo",
+        "thumbnail": null,
+        "views": 80274787,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 30,
+          "neutral": 27,
+          "surprise": 21,
+          "joy": 10,
+          "fear": 9,
+          "anger": 1,
+          "disgust": 1
+        },
+        "top_comments": [
+          "No Tollywood, Mollywood, Kollywood, Sandalwood, Bollywood. Only INDIAN CINEMA ❤🇮🇳, Proud to be an INDIAN ❣",
+          "To the non native Telugu listeners who were disappointed with the lover storiyaan bit of Hindi version - The Telugu version of the bit (love storiyaan) hits just in the opposite direction - \"Andala nee Kanti kaatukatho raase untade na nuditi raatalane\"  - means my fate/destiny was probably written i",
+          "There is no North, no South, no East, no West, only one India. \nAbsolutely loved this Telugu version ❤️"
+        ]
+      },
+      {
+        "id": "7WYcMZXic_w",
+        "title": "Bhairava Anthem | Kalki 2898 AD  | Prabhas | Diljit Dosanjh | Santhosh Narayanan",
+        "artist": "Saregama Telugu",
+        "url": "https://youtube.com/watch?v=7WYcMZXic_w",
+        "thumbnail": null,
+        "views": 27689721,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Devotion / Spiritual",
+        "mood_color": "#9B59B6",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 29,
+          "fear": 21,
+          "neutral": 20,
+          "surprise": 17,
+          "joy": 7,
+          "anger": 6,
+          "disgust": 0
+        },
+        "top_comments": [
+          "▶ https://youtu.be/w0Sutzthn_s\nHere's the King’s Anthem #Naayaka from #Kanguva 🔥⚔ video is out now!",
+          "Prabhas Anna fans assemble here?? ❤️",
+          "Finally! Diljit in Tollywood 🔥💯💯❤"
+        ]
+      },
+      {
+        "id": "Pl2vjFggJp0",
+        "title": "Manasilaayo",
+        "artist": "Vettaiyan The Hunter (Telugu)",
+        "url": "https://youtube.com/watch?v=Pl2vjFggJp0",
+        "thumbnail": null,
+        "views": 26645071,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 28,
+          "surprise": 20,
+          "neutral": 19,
+          "fear": 17,
+          "joy": 13,
+          "anger": 2,
+          "disgust": 0
+        },
+        "top_comments": [
+          "*how many rajinikanth fans are here🔥?*",
+          "2025 లో ఎంతమంది ఈ పాట విన్నారు",
+          "Age is just a Number For Rajini ❤🥰🔥💯"
+        ]
+      },
+      {
+        "id": "ZPQVmAIzzj4",
+        "title": "Hyderabad Butto Trending2022ka#djvns#butto#",
+        "artist": "Dj Bablu Nirmal",
+        "url": "https://youtube.com/watch?v=ZPQVmAIzzj4",
+        "thumbnail": null,
+        "views": 17360432,
+        "genres": [
+          "Pop",
+          "Romance",
+          "Party/Dance"
+        ],
+        "mood_label": "Hype / Anger",
+        "mood_color": "#E24B4A",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 28,
+          "surprise": 20,
+          "neutral": 20,
+          "joy": 20,
+          "fear": 9,
+          "anger": 2,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Full Song 🔗 https://youtu.be/8uVvyR9zmQc",
+          "How many are listening in 2025❤🎉🎉",
+          "4k quality djj mix🥵🥵🥵🥵🥵🥵🥵🥵"
+        ]
+      },
+      {
+        "id": "baGLHgUxpjc",
+        "title": "Marredpally Golla Kittu Anna",
+        "artist": "V Digital Recording Studio",
+        "url": "https://youtube.com/watch?v=baGLHgUxpjc",
+        "thumbnail": null,
+        "views": 15393232,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 26,
+          "joy": 22,
+          "neutral": 22,
+          "surprise": 18,
+          "fear": 9,
+          "anger": 2,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Who came after seeing in Instagram 😅",
+          "Any one on 2025 means now 😊",
+          "Anyone in 2026 🎉"
+        ]
+      },
+      {
+        "id": "Wu_55nXIp_M",
+        "title": "JORDAAR BONALU  PROD BY @ClownyBeatzz #THH",
+        "artist": "DASAGRIVA",
+        "url": "https://youtube.com/watch?v=Wu_55nXIp_M",
+        "thumbnail": null,
+        "views": 15313250,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Hype / Anger",
+        "mood_color": "#E24B4A",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 26,
+          "neutral": 20,
+          "surprise": 19,
+          "fear": 17,
+          "joy": 13,
+          "anger": 4,
+          "disgust": 0
+        },
+        "top_comments": [
+          "RAM RAM 🙏🏻 \nBASS ADDED ENJOY THE VIBES ❤ \n(Remastered)",
+          "Fireuu 🔥 who are Waiting for Ganesh Mass Song ❤😍🤩🥳",
+          "I fuck'n love your screen ratio ❤️🙌❤️‍🔥"
+        ]
+      },
+      {
+        "id": "HZX-z8MsuDY",
+        "title": "Bhutto",
+        "artist": "Monu Music India - Topic",
+        "url": "https://youtube.com/watch?v=HZX-z8MsuDY",
+        "thumbnail": null,
+        "views": 10572826,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 40,
+          "surprise": 25,
+          "neutral": 17,
+          "fear": 14,
+          "anger": 2,
+          "joy": 1,
+          "disgust": 1
+        },
+        "top_comments": []
+      },
+      {
+        "id": "AaMw47tixRA",
+        "title": "Butto Original",
+        "artist": "NBP Creation",
+        "url": "https://youtube.com/watch?v=AaMw47tixRA",
+        "thumbnail": null,
+        "views": 7145970,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 40,
+          "surprise": 25,
+          "neutral": 17,
+          "fear": 14,
+          "anger": 2,
+          "joy": 1,
+          "disgust": 1
+        },
+        "top_comments": []
+      },
+      {
+        "id": "Wz58CahJAqw",
+        "title": "DHARKARI |Dharkari |",
+        "artist": "DHARKARI",
+        "url": "https://youtube.com/watch?v=Wz58CahJAqw",
+        "thumbnail": null,
+        "views": 4531602,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Hype / Anger",
+        "mood_color": "#E24B4A",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 27,
+          "neutral": 26,
+          "surprise": 18,
+          "joy": 17,
+          "fear": 9,
+          "anger": 2,
+          "disgust": 0
+        },
+        "top_comments": [
+          "bhai ye fatne wala hai pin karlo comment ku 🔥",
+          "Reel se direct YouTube pe agaya mai gana sunke 🫡😂",
+          "\"Are call aara bhabhi ka \nare rakh re\" was epic 😂😂"
+        ]
+      }
+    ]
+  },
+  "Pune": {
+    "city": "Pune",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "dominant_mood": "Romance / Love",
+    "mood_colors": {
+      "primary": "#D4537E",
+      "secondary": "#7F77DD",
+      "glow": "rgba(212,83,126,0.4)"
+    },
+    "mood_distribution": {
+      "Nostalgia / Calm": 8,
+      "Romance / Love": 48,
+      "Heartbreak / Longing": 38,
+      "Hype / Anger": 6
+    },
+    "emotion_breakdown": {
+      "neutral": 19,
+      "sadness": 28,
+      "surprise": 17,
+      "fear": 16,
+      "joy": 10,
+      "anger": 6,
+      "disgust": 3
+    },
+    "genre_breakdown": {
+      "Romance": {
+        "count": 15,
+        "color": "#E76F51"
+      },
+      "Regional": {
+        "count": 9,
+        "color": "#2A9D8F"
+      },
+      "Bollywood": {
+        "count": 1,
+        "color": "#FF6B6B"
+      },
+      "Party/Dance": {
+        "count": 1,
+        "color": "#F72585"
+      }
+    },
+    "top_genre": "Romance",
+    "insight": "Love is in the air — romantic ballads rule the charts",
+    "song_count": 15,
+    "songs": [
+      {
+        "id": "eHyl9KG9RWA",
+        "title": "3:59 AM | Prod. by Stunnah Beatz |",
+        "artist": "DIVINE",
+        "url": "https://youtube.com/watch?v=eHyl9KG9RWA",
+        "thumbnail": null,
+        "views": 350680255,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Nostalgia / Calm",
+        "mood_color": "#7F77DD",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "neutral": 36,
+          "sadness": 27,
+          "surprise": 20,
+          "fear": 9,
+          "joy": 4,
+          "anger": 2,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Bhagwaan mujhe bola DIVINE paani pe chal, watch it happen at Rolling Loud 2025. Get your tickets here: https://link.district.in/DSTRKT/zokj3oe4",
+          "Edit karke tune image mera meme banadiya\nMehnat  karke tere bhai ne poora dream bana diya 🙌🙌🙏",
+          "Anyone 2026?? ☠️🔥"
+        ]
+      },
+      {
+        "id": "r6tU3GvJ5so",
+        "title": "Atul",
+        "artist": "Chandra Official Song | Chandramukhi | Marathi Song 2022 | Ajay",
+        "url": "https://youtube.com/watch?v=r6tU3GvJ5so",
+        "thumbnail": null,
+        "views": 324394855,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 27,
+          "neutral": 23,
+          "surprise": 21,
+          "joy": 19,
+          "fear": 9,
+          "anger": 2,
+          "disgust": 0
+        },
+        "top_comments": [
+          "Viewers of this master piece.. \n10℅- Marathi\n90℅- Rest of india even abroad\nI m also from Odisha",
+          "I’m Japanese but I love love love this song!\nLove from Japan🇯🇵",
+          "गाणं जरी तमाशाप्रधान असलं तरी कुठंही घाणेरडं दिसलं नाही हा आहे मराठी चित्रपटाचा दर्जा"
+        ]
+      },
+      {
+        "id": "MnGAYS-v7lQ",
+        "title": "#Nauvari  |",
+        "artist": "Sanju Rathod SR",
+        "url": "https://youtube.com/watch?v=MnGAYS-v7lQ",
+        "thumbnail": null,
+        "views": 248792160,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 26,
+          "joy": 23,
+          "surprise": 19,
+          "neutral": 19,
+          "fear": 10,
+          "anger": 2,
+          "disgust": 0
+        },
+        "top_comments": [
+          "first time realise that I can understand 50% marathi language from Nepal!!",
+          "Im not Marathi but your song ❤ love from uttarakhand",
+          "100 times better than nowdays Bollywood songs 🥲🥲"
+        ]
+      },
+      {
+        "id": "6zoKKPTzWUE",
+        "title": "Daagdi Chaawl | Marathi",
+        "artist": "Dhaga Dhaga Song Video",
+        "url": "https://youtube.com/watch?v=6zoKKPTzWUE",
+        "thumbnail": null,
+        "views": 99157198,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "Was there a lifetime waiting for us",
+        "emotion_scores": {
+          "sadness": 26,
+          "neutral": 24,
+          "joy": 22,
+          "surprise": 18,
+          "fear": 9,
+          "anger": 1,
+          "disgust": 0
+        },
+        "top_comments": [
+          "दगडी चाळ Dagadi Chaawl Full Movie Watch Now\r\nhttps://www.youtube.com/watch?v=PcUOE6o9vU8",
+          "I'm from Punjab, I completed my graduation from Nashik(Maharashtra), I spent 4 years in Maharashtra, I really like the people, their hospitality, I understand Marathi, completely.\nThis song reminds me of my Nashik days. \nI can't forget the time I had in Maharashtra.❤️",
+          "2026 आला कितीजण आहेत अजून ह्या गाण्याचे चाहिते ❤️❤️"
+        ]
+      },
+      {
+        "id": "Z6U3tVjHcUI",
+        "title": "",
+        "artist": "Dolby Walya",
+        "url": "https://youtube.com/watch?v=Z6U3tVjHcUI",
+        "thumbnail": null,
+        "views": 84526450,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "When this song came in ANIMAL,, Every Maharashtrian feel so proud and good... Hatts Off n thank you ajay atul....",
+          "Belive me this is the BGM of most intense fighting scene of Bollywood ever made.\n\nThanks for 1k likes 🥲",
+          "We Telugu people love literally every music industry if the vibe check is alright, sandeep being a telugu guy might have enjoyed this song during a party with his friends for sure, I guarantee you 😂💥"
+        ]
+      },
+      {
+        "id": "5rABTHdFm9U",
+        "title": "Sukh Kalale | Riteish Deshmukh | Genelia Deshmukh | Mumbai Film Company | 30th December",
+        "artist": "Desh Music",
+        "url": "https://youtube.com/watch?v=5rABTHdFm9U",
+        "thumbnail": null,
+        "views": 60438849,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "Shreya's voice in marathi songs is juss amazing.. sukh kalale...chandra.. adhir man zale.. sairat.. list is countless... Ajay-Atul + Shreya = Magic",
+          "Plz ..Jarur saglyani थिएटरला जाऊन मूवी बघा...आपल्या लोकांचे कौतुक आपणच करायचे...मराठी चित्रपट जिवंत ढेवा",
+          "I am here after seeing an insta reel of a marriage ritual of Maharashtra😂\n\np.s. - Thanks for 1k likes🤗"
+        ]
+      },
+      {
+        "id": "GWrC1omWR84",
+        "title": "Chabidar Chabi | Girlz | Praful-Swapnil | Sagar Das | Naren Kumar | Vishal Devrukhkar | Ram Kadam",
+        "artist": "Saregama Marathi",
+        "url": "https://youtube.com/watch?v=GWrC1omWR84",
+        "thumbnail": null,
+        "views": 38303775,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "The wait is over - the Dhurandhar Title Track is finally here! Check it out!   https://youtu.be/1a5nyrMtRsk",
+          "\"Bangadi hatath, laali otath bharli tari MARDANI Mi\"\nThis line is fire😍🔥🔥🔥🔥",
+          "This is called Actual Remix ...with own Creativity ...Marathi industry Rocksss Always 💕💕"
+        ]
+      },
+      {
+        "id": "Ofopo3YlN8w",
+        "title": "Premachi Goshta | Marathi Love",
+        "artist": "Olya Sanjveli",
+        "url": "https://youtube.com/watch?v=Ofopo3YlN8w",
+        "thumbnail": null,
+        "views": 34989216,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "प्रेमाची गोष्ट Premachi Goshta | Superhit Marathi Romantic Movie\nhttps://youtu.be/EKERA30CaAo",
+          "ITI  ला असतान हे song मी संध्याकाळी 5.30 ला बस मधून येताना ऐकत होतो रोज आणि त्या बस मधेच माझी प्रेमिका होती मग काय गाणं मनाला तर लागणार च ना   miss my collge day",
+          "आयुष्यभर कोणासाठी थांबणे\nम्हणजे प्रेम,\nकोणीतरी सुखात असल्याचा आनंद\nम्हणजे प्रेम,\nकोणासाठीतरी रडणारे मन\nम्हणजे प्रेम,\nआणि कोणाशिवाय तरी मरणे\nम्हणजे प्रेम…"
+        ]
+      },
+      {
+        "id": "M1rUEOcRCZo",
+        "title": "Tu Havishi | Online Binline | Siddharth Chandekar & Rutuja Shinde",
+        "artist": "Zee Music Marathi",
+        "url": "https://youtube.com/watch?v=M1rUEOcRCZo",
+        "thumbnail": null,
+        "views": 24705636,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "चला 2026 वाल्यांनी हजेरी लावा ❤😅",
+          "पाहिले जेव्हा तुला मी , पाहताना तू मला \nमी तुझी होऊन गेले विसरले माझी मला ❤️",
+          "Miss my future wife but don't know when she will get me 😅"
+        ]
+      },
+      {
+        "id": "FupW3gNXowI",
+        "title": "Mumbai Pune Mumbai | Romantic Marathi",
+        "artist": "Ka Kalena Song",
+        "url": "https://youtube.com/watch?v=FupW3gNXowI",
+        "thumbnail": null,
+        "views": 16523842,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "पुणे.अवर्णनीय शहर.या शहराच्या संध्याकाळात एक जादू आहे.या शहराच्या पावसात एक प्रेम भावना आहे.शहराची रात्र तुम्हाला स्वताःशी बोलन्यास भाग पाडते.😊",
+          "2025 च्या शेवटाला कोणी आलं इथे? 😊",
+          "पुणे म्हणजे माझा जीव. एक जिवंत शहर! मराठी अस्मितेचा केंद्रबिंदू!"
+        ]
+      },
+      {
+        "id": "G_zp63DdHik",
+        "title": "Mumbai Pune Mumbai 3 | New Marathi",
+        "artist": "Tula Pahata Song Video",
+        "url": "https://youtube.com/watch?v=G_zp63DdHik",
+        "thumbnail": null,
+        "views": 11231254,
+        "genres": [
+          "Regional",
+          "Romance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "मी pratilipi वर वाचत असलेल्या अनुया बीर्जे च्या मर्मभेद या स्टोरी मध्ये हे गाण वाचल आणि राहवलं नाही म्हणुन ऐकायला आले इथे..",
+          "मुरंबा सिरीयल मध्ये ऐकायला मिळाले हे गाणं",
+          "स्टार प्रवाह वाले आता प्रत्येक मालिका मध्ये हे song attach करतेत😊 .....खूप भारी सोंग आहे 😍❤"
+        ]
+      },
+      {
+        "id": "qX7xAjZMDcg",
+        "title": "Dj Piyu Playing Live Dum Maro Dum At Backstage Club , Pune",
+        "artist": "DJ PIYU",
+        "url": "https://youtube.com/watch?v=qX7xAjZMDcg",
+        "thumbnail": null,
+        "views": 10889751,
+        "genres": [
+          "Bollywood",
+          "Romance",
+          "Party/Dance"
+        ],
+        "mood_label": "Hype / Anger",
+        "mood_color": "#E24B4A",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "00:30 that girl on the right corner🔥🔥\nBevdi😂😂",
+          "Duniya n humko diya kya???\n \nGanta ,😂😂😂",
+          "Duniya nai humko diya kiya say everbody ghanta just amazing 🤣🤣🤣🤣🤣🤣"
+        ]
+      }
+    ]
+  },
+  "Jaipur": {
+    "city": "Jaipur",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "dominant_mood": "Romance / Love",
+    "mood_colors": {
+      "primary": "#D4537E",
+      "secondary": "#7F77DD",
+      "glow": "rgba(212,83,126,0.4)"
+    },
+    "mood_distribution": {
+      "Heartbreak / Longing": 48,
+      "Devotion / Spiritual": 33,
+      "Romance / Love": 19
+    },
+    "emotion_breakdown": {
+      "sadness": 28,
+      "fear": 19,
+      "neutral": 16,
+      "surprise": 16,
+      "anger": 8,
+      "joy": 7,
+      "disgust": 4
+    },
+    "genre_breakdown": {
+      "Romance": {
+        "count": 15,
+        "color": "#E76F51"
+      },
+      "Folk": {
+        "count": 7,
+        "color": "#F4A261"
+      },
+      "Pop": {
+        "count": 3,
+        "color": "#E9C46A"
+      },
+      "Indie": {
+        "count": 1,
+        "color": "#4ECDC4"
+      },
+      "Party/Dance": {
+        "count": 1,
+        "color": "#F72585"
+      }
+    },
+    "top_genre": "Romance",
+    "insight": "Love is in the air — romantic ballads rule the charts",
+    "song_count": 15,
+    "songs": [
+      {
+        "id": "cZSrWoBMSrg",
+        "title": "Pranjal Dahiya & Dinesh Golan | GD Kaur | Haryanvi",
+        "artist": "Gypsy (Official Music Video)",
+        "url": "https://youtube.com/watch?v=cZSrWoBMSrg",
+        "thumbnail": null,
+        "views": 563363345,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "🎬 Now featured in the Bollywood film Subedaar as “Balam Subedaar”, starring Anil Kapoor!\nHave you watched Gypsy 2 yet?\nTell us — which one hits harder… 1 or 2? 👇🔥",
+          "If your Balam drives gypsy then he is not Thanedar ,he is constable",
+          "If your balam drives jypsy then he is not thanedar he is constable🤣🤣"
+        ]
+      },
+      {
+        "id": "dlrQgg3Y06k",
+        "title": "BANNI",
+        "artist": "KS  and Kapil Jangir",
+        "url": "https://youtube.com/watch?v=dlrQgg3Y06k",
+        "thumbnail": null,
+        "views": 275578399,
+        "genres": [
+          "Folk",
+          "Romance"
+        ],
+        "mood_label": "Devotion / Spiritual",
+        "mood_color": "#9B59B6",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "Making it easier for you to sing along watching this video with us,\n\n'Banni song' Lyrics :\n\nMishri Sun Mithi Baata Thaari,\nMan Hai Prem Ko Jharanon Sa,\nKaanch Bhi Ba Sun Sharamaan Jaave,\nAiso Rup Sajilo Sa,\nBanni Thaaro Chaand Sariso Mukhado,\nKoi Najar Nahin Lag Jaay,\nBanni Thoda Halave Halave Chaal",
+          "मैं रहता तो मध्यप्रदेश में हूं परंतु मुझे राजस्थान राज्य बहुत ही अच्छा लगता है क्योंकि राजस्थान के गीत, वहां के शहर, वहां की संस्कृति  पूरे भारत में सबसे अलग है राजस्थान नाम लेने से ही एक अलग गर्व की अनुभूति होती है",
+          "भाई मै यूपी से हु लेकिन मुझे लगता है राजस्थान आज भी हमारी संस्कृति और इतिहास को अपने अन्दर समेटे हुए है राजस्थान हमारे सामाजिक साहित्य और विज्ञान और ज्योतिष शास्त्र और भी कई पहेली को जीवन दीया है राजस्थान भारत ही नही पुरे विश्व मे अपना एक अलग पहचान बनाए हुए है राजस्थान आज के मार्डन समाज मे भी अपनी अ"
+        ]
+      },
+      {
+        "id": "i2GC06euEDE",
+        "title": "जगुआर। म्यूजिकल डॉक्टर्ज सुखे फीचरिंग बोहिमिया। नवीनतम पंजाबी गाना 2015। स्पीड रेकॉर्ड्स",
+        "artist": "Speed",
+        "url": "https://youtube.com/watch?v=i2GC06euEDE",
+        "thumbnail": null,
+        "views": 266205549,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "Who is listening to this song after nischay malhan (Triggered Insaan) sang  😂❤?",
+          "Ratan Tata took this song too seriously 😂😅😂\n\nEdited- owned AIR INDIA too😅😅🙏🏻❤️❤️",
+          "Bohemia wrote his entire lyrics in a van in 1 hour 🔥"
+        ]
+      },
+      {
+        "id": "tPx-7Grk_UY",
+        "title": "Kajaliyo  | Aakanksha Sharma | Kapil Jangir | Hit Rajasthani",
+        "artist": "KS",
+        "url": "https://youtube.com/watch?v=tPx-7Grk_UY",
+        "thumbnail": null,
+        "views": 166434689,
+        "genres": [
+          "Folk",
+          "Pop",
+          "Romance"
+        ],
+        "mood_label": "Devotion / Spiritual",
+        "mood_color": "#9B59B6",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "https://www.youtube.com/playlist?list=PLTP0_XXUEr1QlF2Y1AhyaJ-nU_pJLiQ1N \n\nHere's a mix of handpicked Rajasthani wedding songs curated specially for you this season by KS Records. ❤",
+          "मैं एमपी से हूं, लेकिन राजस्थान हमेशा से ही मेरा पसंदीदा था यहां की संस्कृति और रिवाज बहुत ही आकर्षक है। यहां की बहुत सारी किस्से और कहानियां विद्यालय में पढ़ते हुए बड़े हुए हैं,  नमन है वीरों को इस भूमि को। जय राजपुताना जय राजस्थान जय हिंद",
+          "मैं उत्तरप्रदेश से हूं, पर मूल रूप से राजस्थानी राजपूत हूं। और मुझे राजस्थान की संस्कृति पर गर्व है।।"
+        ]
+      },
+      {
+        "id": "1gukvtH_a3I",
+        "title": "चौधरी-अमित त्रिवेदी, फीट मामे खान, कोक स्टूडियो @ एमटीवी, सीज़न 2",
+        "artist": "Coke Studio India",
+        "url": "https://youtube.com/watch?v=1gukvtH_a3I",
+        "thumbnail": null,
+        "views": 133846773,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "I'm leaving this comment here so after a month or a year when someone likes it, I get reminded of this song ♥️",
+          "Leaving this comment here so that whenever someone likes it in the future, I’ll be reminded of this beautiful song ♥",
+          "This song is enough to tell you that our Rajasthan is much more than a desert."
+        ]
+      },
+      {
+        "id": "MD2Or5ZxBSs",
+        "title": "Gajban Pani Ne Challi | Vishvjeet Chaudhary",
+        "artist": "Single Track Haryanvi",
+        "url": "https://youtube.com/watch?v=MD2Or5ZxBSs",
+        "thumbnail": null,
+        "views": 92034026,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "2,3,bar roj,sunne bale 😂😂😂he ham 😂😂😂best song",
+          "😂😂2026 mein bhi sun rhe yeh song",
+          "Jab ye gana aaya tha  tab mai 6000 rupay maheene per kaam karta tha aaj uper wale ki kripa se meri salary 70000  rupay hai"
+        ]
+      },
+      {
+        "id": "gRlm8VWLpl0",
+        "title": "MARURANG मरुरंग  Sonu Kanwar I Ganesh Solanki I Rajasthani",
+        "artist": "Sonu Kanwar official",
+        "url": "https://youtube.com/watch?v=gRlm8VWLpl0",
+        "thumbnail": null,
+        "views": 86289751,
+        "genres": [
+          "Folk",
+          "Romance"
+        ],
+        "mood_label": "Devotion / Spiritual",
+        "mood_color": "#9B59B6",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "Namashkar . Gane ko and tak dekhe like comment share kare",
+          "मैं मध्यप्रदेश का निवासी हूं।लेकिन राजस्थानी सॉन्ग सुनके दिल को सुकून मिलता है राजस्थान की बात ही अलग हैं।😍❤️🤞",
+          "Me abhi mumbai me rah raha hu or Maharashtra ke log hamara culture bahut pasand karte hai sach me hamare Rajasthan great hai ❤️❤️❤️❤️❤️"
+        ]
+      },
+      {
+        "id": "E4ZJxhyAaH8",
+        "title": "Gulabi |",
+        "artist": "YRF",
+        "url": "https://youtube.com/watch?v=E4ZJxhyAaH8",
+        "thumbnail": null,
+        "views": 77482673,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "He is getting all the attention now probably which needed most when he was alive! 😞",
+          "In the crowd of celebrities we lost an artist",
+          "There isn't any need of blaming starkids for his sad demise , you audience are the actual cause behind his death . None you were there in support of him when he was alive . Yesterday I came across so many comments that were commented before his death , according to those comments , people where tryi"
+        ]
+      },
+      {
+        "id": "varo0G9I-gk",
+        "title": "",
+        "artist": "Shuddh Desi Romance",
+        "url": "https://youtube.com/watch?v=varo0G9I-gk",
+        "thumbnail": null,
+        "views": 27327472,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "I am from Jodhpur Ye shooting jab chal rahi thi Tab mene sushant Sir ko First time dekha tha 🤗🤗",
+          "The problem with this today's world is no one appreciates you, no one motivates you, no one encourages you when you are alive.",
+          "Almost forgot this song. Just heard it on Instagram and just running towards YouTube 😅❤ feels nostalgia"
+        ]
+      },
+      {
+        "id": "b44T0FPt6mU",
+        "title": "RAJASTHANI FOLK ANTHEM 2",
+        "artist": "Sumsa Supari",
+        "url": "https://youtube.com/watch?v=b44T0FPt6mU",
+        "thumbnail": null,
+        "views": 23852425,
+        "genres": [
+          "Folk",
+          "Romance"
+        ],
+        "mood_label": "Romance / Love",
+        "mood_color": "#D4537E",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "नमस्कार , राम राम , खम्मा घनी !!\r\n\r\nइन्तेजार की घड़ियां हुई खत्म , आप सभी मेरे प्रिय मित्रों और अपने रंगीले राजस्थान के लिए हम लेकर आये है \" राजस्थानी फॉल्क एंथम 2\" \r\n\r\nये एंथम आपको राजस्थान के रजवाड़ी संस्कृति से लेकर राजस्थान के अनमोल प्रकर्ति धरोहर को दिखायेगा .\r\n\r\nआप सभी से निवेदन हैं की आप इस गान",
+          "I am from Pakistan 🇵🇰 my forefathers belong from India Rajisthan my grandmother speaks marwari Rajisthani language I love Rajisthani Language and Culture ❤️🇵🇰🇮🇳",
+          "Kon kon Rajasthan se hai😊😊"
+        ]
+      },
+      {
+        "id": "VNKQm2jps7I",
+        "title": "Biwi No.1  | Abhijeet | Anuradha Sriram | 90s Hindi",
+        "artist": "Chunnari Chunnari",
+        "url": "https://youtube.com/watch?v=VNKQm2jps7I",
+        "thumbnail": null,
+        "views": 15993093,
+        "genres": [
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "Kon kon ye song 2025 me sun rahe hai 😂😂",
+          "3:40 onwards is why you are here 😊",
+          "Salman khan lovers ❤ antenna's ❤❤❤"
+        ]
+      },
+      {
+        "id": "O5pm7bhWcGY",
+        "title": "जयपुर वालो साफो जोर जसग्यों केशरिया बन्ना / Instagram Trending",
+        "artist": "Jodhana Music",
+        "url": "https://youtube.com/watch?v=O5pm7bhWcGY",
+        "thumbnail": null,
+        "views": 2958030,
+        "genres": [
+          "Pop",
+          "Romance"
+        ],
+        "mood_label": "Heartbreak / Longing",
+        "mood_color": "#F2A623",
+        "lyrics_preview": "“Baby” is about breaking up with someone you love and still wanting them even after you’ve broken up",
+        "emotion_scores": {
+          "sadness": 28,
+          "fear": 19,
+          "neutral": 16,
+          "surprise": 16,
+          "anger": 8,
+          "joy": 7,
+          "disgust": 4
+        },
+        "top_comments": [
+          "ये गाना मैने आज पहली बार सुना बहुत शानदार लगा। पहली बार में ही ये गाना मैने लगभग 30 बार से ज्यादा सुन लिया।❤",
+          "सायर कि होड कोनी होवे हुक्म",
+          "ये गाना मैने करीब हजार से ज्यादा बार गाङी मे सुना है हर बारात सादी बयाव मे यही गाना सुनता हूं ❤❤❤"
+        ]
+      }
+    ]
+  }
+}

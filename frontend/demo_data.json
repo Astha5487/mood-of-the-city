@@ -1,0 +1,184 @@
+{
+  "Mumbai": {
+    "city": "Mumbai",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "dominant_mood": "Heartbreak / Longing",
+    "mood_colors": { "primary": "#F2A623", "secondary": "#E24B4A", "glow": "rgba(242,166,35,0.4)" },
+    "insight": "Binging breakup anthems — sadness 3× above average",
+    "top_genre": "Bollywood",
+    "emotion_breakdown": { "sadness": 68, "neutral": 42, "joy": 32, "anger": 18, "fear": 22, "surprise": 15, "disgust": 8 },
+    "genre_breakdown": {
+      "Bollywood":   { "count": 7, "color": "#FF6B6B" },
+      "Romance":     { "count": 4, "color": "#E76F51" },
+      "Indie":       { "count": 2, "color": "#4ECDC4" },
+      "Pop":         { "count": 2, "color": "#E9C46A" }
+    },
+    "mood_distribution": { "Heartbreak / Longing": 62, "Romance / Love": 25, "Nostalgia / Calm": 13 },
+    "song_count": 15,
+    "songs": [
+      { "title": "Tere Bina", "artist": "Arijit Singh", "views": 120000000, "genres": ["Bollywood","Romance"], "mood_label": "Heartbreak / Longing", "mood_color": "#F2A623", "lyrics_preview": "Tere bina adhoora hoon main, chain nahin aata...", "top_comments": ["This song plays in every breakup playlist 💔","Arijit hit different at 3am","I cried for 2 hours straight"] },
+      { "title": "Raataan Lambiyan", "artist": "Jubin Nautiyal", "views": 98000000, "genres": ["Bollywood","Romance"], "mood_label": "Romance / Love", "mood_color": "#D4537E", "lyrics_preview": "Raataan lambiyan, tenu yaad karaan...", "top_comments": ["Perfect song for longing","This is Mumbai's anthem rn","Pure emotion"] },
+      { "title": "Dil Diyan Gallan", "artist": "Atif Aslam", "views": 87000000, "genres": ["Bollywood","Romance"], "mood_label": "Heartbreak / Longing", "mood_color": "#F2A623", "lyrics_preview": "Dil diyan gallan, pyar diyan gallan...", "top_comments": ["Timeless","Atif's voice is therapy","Mumbai vibes at night"] }
+    ]
+  },
+  "Delhi": {
+    "city": "Delhi",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "dominant_mood": "Hype / Anger",
+    "mood_colors": { "primary": "#E24B4A", "secondary": "#FF6B35", "glow": "rgba(226,75,74,0.4)" },
+    "insight": "Rage & hype dominate — rap and defiance songs surging 40%",
+    "top_genre": "Rap/Hip-Hop",
+    "emotion_breakdown": { "anger": 71, "surprise": 58, "joy": 38, "neutral": 22, "sadness": 15, "fear": 12, "disgust": 18 },
+    "genre_breakdown": {
+      "Rap/Hip-Hop": { "count": 6, "color": "#FFE66D" },
+      "Bollywood":   { "count": 4, "color": "#FF6B6B" },
+      "Regional":    { "count": 3, "color": "#2A9D8F" },
+      "Pop":         { "count": 2, "color": "#E9C46A" }
+    },
+    "mood_distribution": { "Hype / Anger": 70, "Joy / Celebration": 20, "Heartbreak / Longing": 10 },
+    "song_count": 15,
+    "songs": [
+      { "title": "Mirchi", "artist": "DIVINE ft. Stylo G", "views": 75000000, "genres": ["Rap/Hip-Hop","Regional"], "mood_label": "Hype / Anger", "mood_color": "#E24B4A", "lyrics_preview": "Swag mera desi, flow mera fresh, Mirchi laga ke aaya...", "top_comments": ["DILLI KA RAJA 🔥","This goes hard in the metro","Delhi anthem no cap"] },
+      { "title": "Namastute", "artist": "Seedhe Maut", "views": 45000000, "genres": ["Rap/Hip-Hop"], "mood_label": "Hype / Anger", "mood_color": "#E24B4A", "lyrics_preview": "Hum wahi karenge jo dil chahega...", "top_comments": ["Delhi boys know 🔥","Underground king","This is the Delhi energy"] },
+      { "title": "Bheegi Yaadein", "artist": "Raftaar", "views": 38000000, "genres": ["Rap/Hip-Hop","Bollywood"], "mood_label": "Hype / Anger", "mood_color": "#E24B4A", "lyrics_preview": "Main toh chal diya, tum reh gaye peeche...", "top_comments": ["Raftaar never misses","Streets approved","Delhi vibes all day"] }
+    ]
+  },
+  "Bangalore": {
+    "city": "Bangalore",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "dominant_mood": "Nostalgia / Calm",
+    "mood_colors": { "primary": "#7F77DD", "secondary": "#4A90D9", "glow": "rgba(127,119,221,0.4)" },
+    "insight": "Deep in nostalgia — indie & lo-fi taking over the playlists",
+    "top_genre": "Indie",
+    "emotion_breakdown": { "neutral": 74, "sadness": 60, "joy": 40, "fear": 28, "anger": 12, "surprise": 22, "disgust": 6 },
+    "genre_breakdown": {
+      "Indie":       { "count": 6, "color": "#4ECDC4" },
+      "Bollywood":   { "count": 4, "color": "#FF6B6B" },
+      "Folk":        { "count": 2, "color": "#F4A261" },
+      "Classical":   { "count": 2, "color": "#A8DADC" }
+    },
+    "mood_distribution": { "Nostalgia / Calm": 65, "Romance / Love": 22, "Heartbreak / Longing": 13 },
+    "song_count": 15,
+    "songs": [
+      { "title": "Kesariya", "artist": "Arijit Singh", "views": 105000000, "genres": ["Bollywood","Indie"], "mood_label": "Nostalgia / Calm", "mood_color": "#7F77DD", "lyrics_preview": "Kesariya tera ishq hai piya, main sehra banjara...", "top_comments": ["This plays every evening in Indiranagar","Bangalore sunset song","Late night Cubbon Park vibes"] },
+      { "title": "Iktara", "artist": "Amit Trivedi", "views": 62000000, "genres": ["Indie","Folk"], "mood_label": "Nostalgia / Calm", "mood_color": "#7F77DD", "lyrics_preview": "Iktara, iktara, iktara bol ve...", "top_comments": ["Indie Bangalore's soul","This takes me back","10 years and still perfect"] },
+      { "title": "Tu Jaane Na", "artist": "Atif Aslam", "views": 55000000, "genres": ["Bollywood","Romance"], "mood_label": "Heartbreak / Longing", "mood_color": "#F2A623", "lyrics_preview": "Tu jaane na, tu jaane na, mein kahan hoon, kahan...", "top_comments": ["Bangalore roads at 2am","This song is a feeling","WFH blues song"] }
+    ]
+  },
+  "Kolkata": {
+    "city": "Kolkata",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "dominant_mood": "Joy / Celebration",
+    "mood_colors": { "primary": "#1D9E75", "secondary": "#F2A623", "glow": "rgba(29,158,117,0.4)" },
+    "insight": "Pure celebration mode — wedding and Durga Puja tracks ruling charts",
+    "top_genre": "Regional",
+    "emotion_breakdown": { "joy": 72, "surprise": 58, "neutral": 35, "sadness": 28, "fear": 18, "anger": 14, "disgust": 5 },
+    "genre_breakdown": {
+      "Regional":    { "count": 5, "color": "#2A9D8F" },
+      "Bollywood":   { "count": 4, "color": "#FF6B6B" },
+      "Folk":        { "count": 3, "color": "#F4A261" },
+      "Romance":     { "count": 2, "color": "#E76F51" }
+    },
+    "mood_distribution": { "Joy / Celebration": 68, "Romance / Love": 22, "Nostalgia / Calm": 10 },
+    "song_count": 15,
+    "songs": [
+      { "title": "Lut Gaye", "artist": "Jubin Nautiyal", "views": 95000000, "genres": ["Bollywood","Romance"], "mood_label": "Joy / Celebration", "mood_color": "#1D9E75", "lyrics_preview": "Lut gaye hum toh lut gaye, ishq mein dil toot gaye...", "top_comments": ["Durga Puja energy 🎉","Kolkata loves this","Wedding season banger"] },
+      { "title": "Shayad", "artist": "Arijit Singh", "views": 78000000, "genres": ["Bollywood","Romance"], "mood_label": "Romance / Love", "mood_color": "#D4537E", "lyrics_preview": "Shayad main yeh jaan leta pehle, ki tujhe kho dunga...", "top_comments": ["Kolkata evenings 🌆","Maidan walks song","Pure romance"] },
+      { "title": "Ghungroo", "artist": "Hrithik Roshan", "views": 67000000, "genres": ["Bollywood","Party/Dance"], "mood_label": "Joy / Celebration", "mood_color": "#1D9E75", "lyrics_preview": "Ghungroo toot gaye, nachte nachte...", "top_comments": ["Puja celebrations 🥁","This is our anthem","Kolkata goes crazy on this"] }
+    ]
+  },
+  "Chennai": {
+    "city": "Chennai",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "dominant_mood": "Devotion / Spiritual",
+    "mood_colors": { "primary": "#9B59B6", "secondary": "#D4537E", "glow": "rgba(155,89,182,0.4)" },
+    "insight": "Spiritual and devotional mood — classical + bhajan trending alongside Tamil mass",
+    "top_genre": "Classical",
+    "emotion_breakdown": { "fear": 65, "neutral": 58, "joy": 35, "sadness": 42, "anger": 20, "surprise": 28, "disgust": 8 },
+    "genre_breakdown": {
+      "Classical":   { "count": 5, "color": "#A8DADC" },
+      "Regional":    { "count": 5, "color": "#2A9D8F" },
+      "Bollywood":   { "count": 3, "color": "#FF6B6B" },
+      "Folk":        { "count": 2, "color": "#F4A261" }
+    },
+    "mood_distribution": { "Devotion / Spiritual": 55, "Heartbreak / Longing": 28, "Joy / Celebration": 17 },
+    "song_count": 15,
+    "songs": [
+      { "title": "Kannazhaga", "artist": "D. Imman", "views": 58000000, "genres": ["Regional","Classical"], "mood_label": "Devotion / Spiritual", "mood_color": "#9B59B6", "lyrics_preview": "Kannazhaga kannazhaga nee en kannazhaga...", "top_comments": ["ARR would be proud","Tamil cinema magic","Timeless beauty"] },
+      { "title": "Rowdy Baby", "artist": "Dhanush & Dhee", "views": 180000000, "genres": ["Regional","Party/Dance"], "mood_label": "Hype / Anger", "mood_color": "#E24B4A", "lyrics_preview": "Rowdy baby maari maari poda solren...", "top_comments": ["Global Tamil pride 🙌","Most viewed Tamil song ever","Dhanush supremacy"] },
+      { "title": "Vande Mataram", "artist": "A.R. Rahman", "views": 42000000, "genres": ["Classical","Devotion"], "mood_label": "Devotion / Spiritual", "mood_color": "#9B59B6", "lyrics_preview": "Vande mataram, vande mataram...", "top_comments": ["Legend","ARR is God","Goosebumps every time"] }
+    ]
+  },
+  "Hyderabad": {
+    "city": "Hyderabad",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "dominant_mood": "Joy / Celebration",
+    "mood_colors": { "primary": "#EF9F27", "secondary": "#F2A623", "glow": "rgba(239,159,39,0.4)" },
+    "insight": "Party vibes & nostalgia mix — Tollywood mass + retro ballads trending",
+    "top_genre": "Regional",
+    "emotion_breakdown": { "joy": 60, "surprise": 55, "neutral": 50, "sadness": 30, "anger": 22, "fear": 18, "disgust": 7 },
+    "genre_breakdown": {
+      "Regional":    { "count": 6, "color": "#2A9D8F" },
+      "Party/Dance": { "count": 4, "color": "#F72585" },
+      "Bollywood":   { "count": 3, "color": "#FF6B6B" },
+      "Romance":     { "count": 2, "color": "#E76F51" }
+    },
+    "mood_distribution": { "Joy / Celebration": 55, "Nostalgia / Calm": 30, "Romance / Love": 15 },
+    "song_count": 15,
+    "songs": [
+      { "title": "Naatu Naatu", "artist": "Rahul Sipligunj & Kaala Bhairava", "views": 250000000, "genres": ["Regional","Party/Dance"], "mood_label": "Joy / Celebration", "mood_color": "#1D9E75", "lyrics_preview": "Naatu naatu naatu naatu natuve natuve...", "top_comments": ["Oscar winner 🏆 HYDERABAD PROUD","RRR legacy lives on","The energy is unmatched"] },
+      { "title": "Buttabomma", "artist": "Armaan Malik", "views": 88000000, "genres": ["Regional","Romance"], "mood_label": "Romance / Love", "mood_color": "#D4537E", "lyrics_preview": "Buttabomma buttabomma bommaku bommave...", "top_comments": ["Telugu music is underrated","Pure love song","Hyd couples anthem"] },
+      { "title": "Saami Saami", "artist": "Sunidhi Chauhan", "views": 76000000, "genres": ["Regional","Party/Dance"], "mood_label": "Joy / Celebration", "mood_color": "#1D9E75", "lyrics_preview": "Saami saami mere saami, o tere jaisa koi na...", "top_comments": ["SAAMI SAAMI 🔥","Hyderabad party starter","Dance floor killer"] }
+    ]
+  },
+  "Pune": {
+    "city": "Pune",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "dominant_mood": "Heartbreak / Longing",
+    "mood_colors": { "primary": "#F2A623", "secondary": "#E24B4A", "glow": "rgba(242,166,35,0.4)" },
+    "insight": "College heartbreak dominates — sad Bollywood ballads trending among students",
+    "top_genre": "Bollywood",
+    "emotion_breakdown": { "sadness": 64, "neutral": 45, "joy": 35, "anger": 22, "fear": 20, "surprise": 18, "disgust": 7 },
+    "genre_breakdown": {
+      "Bollywood":   { "count": 6, "color": "#FF6B6B" },
+      "Indie":       { "count": 4, "color": "#4ECDC4" },
+      "Romance":     { "count": 3, "color": "#E76F51" },
+      "Pop":         { "count": 2, "color": "#E9C46A" }
+    },
+    "mood_distribution": { "Heartbreak / Longing": 58, "Nostalgia / Calm": 28, "Romance / Love": 14 },
+    "song_count": 12,
+    "songs": [
+      { "title": "Teri Mitti", "artist": "B Praak", "views": 72000000, "genres": ["Bollywood","Romance"], "mood_label": "Heartbreak / Longing", "mood_color": "#F2A623", "lyrics_preview": "Teri mitti mein mil jaavan, gul banke main khil jaavan...", "top_comments": ["Crying in COEP hostel","Pune rains + this song = pain","Miss home so much"] },
+      { "title": "Kya Hua Tera Vada", "artist": "Arijit Singh", "views": 55000000, "genres": ["Bollywood","Romance"], "mood_label": "Heartbreak / Longing", "mood_color": "#F2A623", "lyrics_preview": "Kya hua tera vada, woh kasam woh irada...", "top_comments": ["Pune college life in a song","Late night FC road vibes","Hostel feels"] }
+    ]
+  },
+  "Jaipur": {
+    "city": "Jaipur",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "dominant_mood": "Joy / Celebration",
+    "mood_colors": { "primary": "#1D9E75", "secondary": "#F2A623", "glow": "rgba(29,158,117,0.4)" },
+    "insight": "Festival and folk energy surging — Rajasthani folk + wedding songs dominate",
+    "top_genre": "Folk",
+    "emotion_breakdown": { "joy": 68, "surprise": 52, "neutral": 40, "sadness": 22, "anger": 18, "fear": 15, "disgust": 6 },
+    "genre_breakdown": {
+      "Folk":        { "count": 6, "color": "#F4A261" },
+      "Bollywood":   { "count": 4, "color": "#FF6B6B" },
+      "Regional":    { "count": 3, "color": "#2A9D8F" },
+      "Classical":   { "count": 2, "color": "#A8DADC" }
+    },
+    "mood_distribution": { "Joy / Celebration": 65, "Romance / Love": 25, "Nostalgia / Calm": 10 },
+    "song_count": 12,
+    "songs": [
+      { "title": "Kesariya Balam", "artist": "Seema Mishra", "views": 48000000, "genres": ["Folk","Regional"], "mood_label": "Joy / Celebration", "mood_color": "#1D9E75", "lyrics_preview": "Kesariya balam aavo ni, padharo mhare desh...", "top_comments": ["Rajasthan royalty 👑","Jaipur ki pehchaan","Folk forever"] },
+      { "title": "Ghoomar", "artist": "Shreya Ghoshal", "views": 65000000, "genres": ["Folk","Bollywood"], "mood_label": "Joy / Celebration", "mood_color": "#1D9E75", "lyrics_preview": "Ghoomke ghaghra ghoomke, naache re...", "top_comments": ["Wedding season every day here","Jaipur is always celebrating","Rajputana vibes 🏰"] }
+    ]
+  }
+}
