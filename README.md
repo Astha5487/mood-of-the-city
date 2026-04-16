@@ -196,16 +196,16 @@ python -m backend.scheduler
 
 ---
 
-## ScreenShots of Project
+## Screenshots of Project
 
 ### Project Snapshot 1
-![Screenshot 1](<img width="1433" height="809" alt="Screenshot 2026-04-16 at 7 09 24 PM" src="https://github.com/user-attachments/assets/aabacaca-201a-489b-bdfa-a30141aaf26f" />)
+![Screenshot 1](https://github.com/user-attachments/assets/aabacaca-201a-489b-bdfa-a30141aaf26f)
 
 ### Project Snapshot 2
-![Screenshot 1](<img width="1431" height="849" alt="Screenshot 2026-04-16 at 7 07 40 PM" src="https://github.com/user-attachments/assets/e18a4928-053b-4ac3-9e33-11054afb85de" />)
+![Screenshot 2](https://github.com/user-attachments/assets/e18a4928-053b-4ac3-9e33-11054afb85de)
 
 ### Project Snapshot 3
-![Screenshot 3 ](<img width="1438" height="821" alt="Screenshot 2026-04-16 at 7 10 31 PM" src="https://github.com/user-attachments/assets/816f665c-431c-4a5c-a996-5a2382f931fe" />)
+![Screenshot 3](https://github.com/user-attachments/assets/816f665c-431c-4a5c-a996-5a2382f931fe)
 
 ---
 
