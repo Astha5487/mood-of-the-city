@@ -274,7 +274,6 @@ docker run -p 8000:8000 -e YOUTUBE_API_KEY=your_key mood-of-the-city
 5. Click **Generate Domain** under Settings → Networking
 6. Your app is live 🎉
 
-Full deployment guide: See [DEPLOY.md](DEPLOY.md)
 
 ---
 
