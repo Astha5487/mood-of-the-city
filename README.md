@@ -60,10 +60,10 @@ This project scrapes real trending music data, runs emotion AI on the lyrics and
 ┌─────────────────────────────────────────────────────────────────────┐
 │                        DATA PIPELINE                                │
 │                                                                     │
-│  YouTube Search  →  yt-dlp metadata  →  Genius.com lyrics          │
-│       ↓                                      ↓                     │
+│  YouTube Search  →  yt-dlp metadata  →  Genius.com lyrics           │
+│       ↓                                      ↓                      │
 │  YT Comments API          Genre keyword detection                   │
-│       ↓                                      ↓                     │
+│       ↓                                      ↓                      │
 │          HuggingFace distilroberta-base emotion model               │
 │          joy | sadness | anger | fear | disgust | surprise          │
 │                              ↓                                      │
@@ -80,7 +80,7 @@ This project scrapes real trending music data, runs emotion AI on the lyrics and
 │  GET /api/city/{name}  →  full detail + song list                   │
 │  GET /api/genres       →  genre totals                              │
 │  POST /api/refresh     →  trigger pipeline in background            │
-│  APScheduler           →  auto-refresh every 6 hours               │
+│  APScheduler           →  auto-refresh every 6 hours                │
 └─────────────────────────────┬───────────────────────────────────────┘
                               │
 ┌─────────────────────────────▼───────────────────────────────────────┐
