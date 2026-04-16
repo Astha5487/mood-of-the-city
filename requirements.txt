@@ -6,7 +6,6 @@ lxml>=4.9.0
 
 # ── NLP / ML ──────────────────────────────────────────────
 transformers>=4.38.0
-torch>=2.1.0          # CPU version — change to torch+cu121 for GPU
 huggingface-hub>=0.21.0
 
 # ── Backend ───────────────────────────────────────────────
