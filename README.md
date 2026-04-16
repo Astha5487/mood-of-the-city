@@ -339,7 +339,9 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
+Team Code - **21032**
 Built for **Mid-Prep TechGC** · Made with 🎵 and Python
+
 
 *If this made you curious about what your city is feeling - that's the whole point.*
 
