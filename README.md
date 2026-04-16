@@ -1,9 +1,99 @@
-# 🎵 Mood of the City — Emotional Geography of Indian Music
+<div align="center">
 
-> *"What is each Indian city feeling right now, based on what music it's listening to?"*
+# 🎵 Mood of the City
+### Emotional Geography of Indian Music — Live
 
-A live emotional heatmap of India built by scraping YouTube trending music + Genius lyrics,
-running NLP emotion detection, and rendering a living atlas of city moods.
+<img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-0.109-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Leaflet.js-Map-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-Visualizations-FF6384?style=for-the-badge&logo=chart.js&logoColor=white"/>
+
+<br/>
+
+> **"What is each Indian city feeling right now, based on what music it's listening to?"**
+
+*A live emotional heatmap of India — built by scraping YouTube trending music + Genius.com lyrics, running NLP emotion detection, and rendering a living atlas of city moods.*
+
+<br/>
+
+![Mood of the City Demo](https://raw.githubusercontent.com/YOUR_USERNAME/mood-of-the-city/main/frontend/preview.png)
+
+**[🌐 Live Demo](https://mood-of-the-city.up.railway.app)** • **[📊 API Docs](https://mood-of-the-city.up.railway.app/docs)** • **[🎥 Video Walkthrough](#)**
+
+</div>
+
+---
+
+## 🧠 The Idea
+
+Nobody has mapped the **emotional geography of India through music consumption** — until now.
+
+Every week, cities across India tell different stories through what they listen to:
+
+- 💔 **Mumbai** is binging breakup ballads at 3am
+- 🔥 **Delhi** is rage-listening to Desi hip-hop
+- 🌙 **Bangalore** is deep in nostalgic lo-fi indie
+- 🎉 **Kolkata** is celebrating with Durga Puja anthems
+- 🙏 **Chennai** is in devotional mode with classical + bhajan
+
+This project scrapes real trending music data, runs emotion AI on the lyrics and comments, and renders it as a **live interactive map** that journalists, researchers, and curious people would actually want to look at.
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---|---|
+| 🗺️ **Live Emotional Map** | Interactive India map with pulsing city markers colored by dominant mood |
+| 🎭 **7-Emotion NLP** | HuggingFace model scores joy, sadness, anger, fear, disgust, surprise, neutral per song |
+| 🎵 **Genre Classification** | Auto-tags songs as Bollywood, Indie, Rap/Hip-Hop, Classical, Folk, Regional, etc. |
+| 📊 **Radar + Doughnut Charts** | Per-city emotion radar and genre breakdown via Chart.js |
+| 🔄 **Live Refresh** | One-click pipeline trigger refreshes all 8 cities every 6 hours |
+| 📱 **Song Cards** | Top trending songs per city with lyrics preview + top YouTube comments |
+| ⚖️ **View-Count Weighting** | Viral songs (100M views) influence city mood more than obscure tracks |
+| 🏙️ **8 Indian Cities** | Mumbai, Delhi, Bangalore, Kolkata, Chennai, Hyderabad, Pune, Jaipur |
+
+---
+
+## 🏗️ Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                        DATA PIPELINE                                │
+│                                                                     │
+│  YouTube Search  →  yt-dlp metadata  →  Genius.com lyrics          │
+│       ↓                                      ↓                     │
+│  YT Comments API          Genre keyword detection                   │
+│       ↓                                      ↓                     │
+│          HuggingFace distilroberta-base emotion model               │
+│          joy | sadness | anger | fear | disgust | surprise          │
+│                              ↓                                      │
+│          City Aggregator (log-weighted by view count)               │
+│          → dominant mood + genre breakdown + insight                │
+└─────────────────────────────┬───────────────────────────────────────┘
+                              │
+                    data/city_moods.json
+                              │
+┌─────────────────────────────▼───────────────────────────────────────┐
+│                        BACKEND (FastAPI)                            │
+│                                                                     │
+│  GET /api/mood-map     →  all 8 cities overview                     │
+│  GET /api/city/{name}  →  full detail + song list                   │
+│  GET /api/genres       →  genre totals                              │
+│  POST /api/refresh     →  trigger pipeline in background            │
+│  APScheduler           →  auto-refresh every 6 hours               │
+└─────────────────────────────┬───────────────────────────────────────┘
+                              │
+┌─────────────────────────────▼───────────────────────────────────────┐
+│                       FRONTEND                                      │
+│                                                                     │
+│  Leaflet.js map  →  pulsing city markers (colored by mood)          │
+│  Side panel      →  Overview | Emotions | Songs | Genres tabs       │
+│  Chart.js        →  Radar chart (emotions) + Doughnut (genres)      │
+│  Song cards      →  thumbnail + lyrics preview + comments           │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -11,174 +101,235 @@ running NLP emotion detection, and rendering a living atlas of city moods.
 
 ```
 mood-of-the-city/
+│
 ├── scraper/
-│   ├── youtube_scraper.py    # yt-dlp: trending songs per city
-│   ├── genius_scraper.py     # BeautifulSoup: lyrics + genre detection
-│   └── comment_scraper.py    # YouTube API v3: top comments per song
+│   ├── youtube_scraper.py     # yt-dlp: city-specific trending song search
+│   ├── genius_scraper.py      # BeautifulSoup: lyrics + genre keyword tagging
+│   └── comment_scraper.py     # YouTube Data API v3: top comments per video
+│
 ├── analyzer/
-│   ├── emotion_engine.py     # HuggingFace: joy/sadness/anger/fear scores
-│   └── city_aggregator.py    # Weighted aggregation → city mood profiles
+│   ├── emotion_engine.py      # HuggingFace pipeline: 7-class emotion scoring
+│   └── city_aggregator.py     # View-weighted aggregation → city mood profiles
+│
 ├── backend/
-│   ├── app.py                # FastAPI: /api/mood-map, /api/city/{name}
-│   └── scheduler.py          # APScheduler: reruns pipeline every 6h
+│   ├── app.py                 # FastAPI app: all API endpoints + static serving
+│   └── scheduler.py           # APScheduler: runs full pipeline every 6h (IST)
+│
 ├── frontend/
-│   ├── index.html            # Leaflet.js map + full UI
-│   ├── dashboard.js          # Chart.js + all interactive logic
-│   └── demo_data.json        # Pre-loaded data (works without backend)
-├── data/                     # Pipeline outputs (auto-generated)
+│   ├── index.html             # Leaflet.js map, tabs, legend, stats bar
+│   ├── dashboard.js           # All interactivity: markers, charts, panels
+│   └── demo_data.json         # Pre-loaded 8-city data (works offline)
+│
+├── data/                      # Auto-generated by pipeline (gitignored except demo)
+│   ├── demo_data.json         # Bundled demo — app works without running pipeline
+│   ├── youtube_raw.json       # Raw yt-dlp output
+│   ├── songs_with_lyrics.json # + Genius lyrics + genre tags
+│   ├── songs_enriched.json    # + YouTube comments
+│   └── songs_with_emotions.json # + HuggingFace emotion scores
+│
+├── Dockerfile                 # Production Docker image (CPU torch, slim)
+├── render.yaml                # Render deployment config
 ├── requirements.txt
-└── README.md
-```
+└── runtime.txt
 
 ---
 
-## 🚀 Quick Start (Demo Mode — no scraping needed)
+## 🚀 Quick Start
 
-Open the frontend directly:
+### Option A — Demo Mode (no install, 30 seconds)
+
 ```bash
-cd frontend
+git clone https://github.com/YOUR_USERNAME/mood-of-the-city.git
+cd mood-of-the-city/frontend
 python -m http.server 3000
-# Open http://localhost:3000
 ```
-
-The app loads `demo_data.json` automatically and works fully without the backend.
+Open **http://localhost:3000** — fully interactive map loads from `demo_data.json`.
 
 ---
 
-## 🔧 Full Setup (Live Scraping)
+### Option B — Full Live Scraping Mode
 
-### 1. Install dependencies
+**1. Clone and install**
 ```bash
+git clone https://github.com/YOUR_USERNAME/mood-of-the-city.git
+cd mood-of-the-city
 pip install -r requirements.txt
 ```
 
-### 2. Get a YouTube Data API v3 key (free)
-- Go to https://console.cloud.google.com/apis/library/youtube.googleapis.com
-- Enable the API → Create credentials → API Key
-- Set it:
+**2. Set your YouTube API key**
 ```bash
+cp .env.example .env
+# Edit .env and paste your key from https://console.cloud.google.com
 export YOUTUBE_API_KEY="your_key_here"
 ```
 
-### 3. Run the pipeline manually
+**3. Run the pipeline (one-time)**
 ```bash
-# Step 1: Scrape trending songs from YouTube
+# Scrape trending songs per city (~2 min)
 python -m scraper.youtube_scraper
 
-# Step 2: Get lyrics from Genius.com
+# Get lyrics from Genius.com (~5 min)
 python -m scraper.genius_scraper
 
-# Step 3: Fetch YouTube comments (needs API key)
+# Fetch YouTube comments — needs API key (~3 min)
 python -m scraper.comment_scraper
 
-# Step 4: Run emotion analysis (downloads ~250MB model on first run)
+# Run emotion AI — downloads ~250MB model on first run (~10 min)
 python -m analyzer.emotion_engine
 
-# Step 5: Aggregate city mood profiles
+# Aggregate into city mood profiles (~5 sec)
 python -m analyzer.city_aggregator
 ```
 
-### 4. Start the backend
+**4. Start the server**
 ```bash
 uvicorn backend.app:app --reload --port 8000
 ```
 
-### 5. Open the app
-```
-http://localhost:8000
-```
+Open **http://localhost:8000** 🎉
 
----
-
-## 🔄 Automated Refresh (every 6 hours)
-
-Run the scheduler in a separate terminal:
+**5. Auto-refresh every 6 hours** (optional)
 ```bash
+# In a second terminal
 python -m backend.scheduler
 ```
 
-Or use the **↻ Refresh data** button in the UI to trigger a manual pipeline run.
+---
+
+## 🎭 How Emotions Map to City Moods
+
+The HuggingFace model (`j-hartmann/emotion-english-distilroberta-base`) outputs 7 raw emotion scores per song. These are combined with **genre signals** and **comment sentiment** to produce a city-level mood label:
+
+| Raw Emotion Profile | City Mood Label | Color |
+|---|---|---|
+| High `sadness` | 💔 Heartbreak / Longing | 🟡 Amber |
+| High `anger` + `surprise` | 🔥 Hype / Anger | 🔴 Red |
+| High `joy` + `surprise` | 🎉 Joy / Celebration | 🟢 Green |
+| High `neutral` + `sadness` | 🌙 Nostalgia / Calm | 🟣 Purple |
+| High `joy` + `fear` | 🌸 Romance / Love | 🩷 Pink |
+| High `fear` + `neutral` | 🙏 Devotion / Spiritual | 🟣 Indigo |
+
+**Tiebreaker logic:** When the emotion model collapses (happens with Bollywood lyrics — they all score as "sad"), the system uses genre composition as a fallback:
+- Rap/Hip-Hop city → Hype / Anger
+- Folk-heavy city → Joy / Celebration  
+- Classical-heavy → Devotion / Spiritual
+- Indie-heavy → Nostalgia / Calm
 
 ---
 
-## 📊 API Endpoints
+## 🎸 Genre Classification
 
-| Endpoint | Description |
+Songs are tagged by scanning title + artist + lyrics for genre keywords:
+
+| Genre | Keywords Detected |
 |---|---|
-| `GET /api/mood-map` | All 8 cities, slim overview data |
-| `GET /api/city/{name}` | Full city detail + song list |
-| `GET /api/genres` | Genre totals across all cities |
-| `GET /api/trending` | Top songs by view count |
-| `POST /api/refresh` | Trigger background pipeline run |
-| `GET /health` | Server + data status |
+| 🎬 Bollywood | bollywood, hindi film, filmi |
+| 🎤 Rap/Hip-Hop | rap, hip hop, cypher, desi hip hop, bars |
+| 🎸 Indie | indie, independent, lo-fi, alternative |
+| 🎻 Classical | raga, carnatic, hindustani, bhajan, kirtan |
+| 🪘 Folk | folk, bhangra, garba, lavani, rajasthani |
+| 🔊 Party/Dance | party, dj, remix, edm, club |
+| 🌏 Regional | punjabi, tamil, telugu, kannada, bengali |
+| 🌹 Romance | love, romantic, wedding, dulhan |
+| ⭐ Pop | pop, chart, viral, trending |
 
 ---
 
-## 🧠 How It Works
+## 📊 API Reference
 
+| Endpoint | Method | Description | Response |
+|---|---|---|---|
+| `/` | GET | Serves the frontend | HTML |
+| `/health` | GET | Server + data status | `{status, data_ready, last_updated}` |
+| `/api/mood-map` | GET | All 8 cities overview | `{city: {dominant_mood, colors, insight, ...}}` |
+| `/api/city/{name}` | GET | Full city detail + songs | `{songs[], emotion_breakdown, genre_breakdown, ...}` |
+| `/api/genres` | GET | Genre totals across all cities | `{Bollywood: 42, Indie: 28, ...}` |
+| `/api/trending` | GET | Top songs by view count | `[{title, artist, views, city, ...}]` |
+| `/api/refresh` | POST | Trigger pipeline in background | `{status: "started"}` |
+
+Interactive API docs: **`http://localhost:8000/docs`**
+
+---
+
+## 🐳 Docker
+
+```bash
+# Build
+docker build -t mood-of-the-city .
+
+# Run
+docker run -p 8000:8000 -e YOUTUBE_API_KEY=your_key mood-of-the-city
+
+# Open http://localhost:8000
 ```
-YouTube trending search
-        ↓
-  yt-dlp extracts metadata (title, artist, views, video_id)
-        ↓
-  Genius.com scraper finds lyrics
-        ↓
-  YouTube API fetches top 40 comments per song
-        ↓
-  HuggingFace emotion model (distilroberta-base)
-  → joy, sadness, anger, fear, disgust, surprise, neutral
-        ↓
-  City aggregator: view-count weighted average
-  → dominant mood, genre breakdown, insight headline
-        ↓
-  FastAPI serves /api/mood-map
-        ↓
-  Leaflet.js renders the emotional atlas
-```
-
-### Emotion → Mood mapping
-
-| Raw emotions | Mood label |
-|---|---|
-| High sadness | 💔 Heartbreak / Longing |
-| High anger + surprise | 🔥 Hype / Anger |
-| High joy + surprise | 🎉 Joy / Celebration |
-| High neutral + sadness | 🌙 Nostalgia / Calm |
-| High joy + fear | 🌸 Romance / Love |
-| High fear + neutral | 🙏 Devotion / Spiritual |
-
-### Genre detection
-Lyrics + artist name are scanned for keywords mapping to:
-Bollywood, Indie, Rap/Hip-Hop, Classical, Folk, Pop, Regional, Romance, Party/Dance
 
 ---
 
-## 🎯 Why This Stands Out
+## ☁️ Deploy to Railway (Free, 5 minutes)
 
-- **Nobody has done emotional cartography of India through music** — this is a story journalists will actually write about
-- Real scraping pipeline — no fake data when running live
-- View-count weighted aggregation — viral songs influence the mood more
-- Genre classification reveals cultural geography (Folk in Jaipur, Classical in Chennai, Rap in Delhi)
-- Live refresh — the map changes as India's music taste changes
+1. Fork this repo
+2. Go to **railway.app → New Project → Deploy from GitHub**
+3. Select this repo — Railway detects `Dockerfile` + `railway.toml` automatically
+4. Add env variable: `YOUTUBE_API_KEY` = your key
+5. Click **Generate Domain** under Settings → Networking
+6. Your app is live 🎉
 
----
-
-## 📝 Ethical Notes
-
-- Only scrapes **public** data — no logins, no private data
-- Respectful delays between requests (1-2s)
-- No personal data collected (no emails, phone numbers)
-- YouTube API used within free quota limits
-- Genius.com scraped with standard delays
+Full deployment guide: See [DEPLOY.md](DEPLOY.md)
 
 ---
 
 ## 🛠 Tech Stack
 
-| Layer | Technology |
-|---|---|
-| Scraping | yt-dlp, requests, BeautifulSoup, lxml |
-| NLP | HuggingFace Transformers, distilroberta-base |
-| Backend | FastAPI, APScheduler, Uvicorn |
-| Frontend | Leaflet.js, Chart.js, Syne + DM Sans fonts |
-| Data | JSON files (no DB needed for hackathon) |
+| Layer | Technology | Why |
+|---|---|---|
+| **Scraping** | yt-dlp, requests, BeautifulSoup, lxml | Reliable, handles YouTube's anti-scraping |
+| **NLP** | HuggingFace Transformers, distilroberta-base | 7-class emotion, 250MB, CPU-friendly |
+| **Backend** | FastAPI + Uvicorn | Async, auto-docs, production-ready |
+| **Scheduling** | APScheduler | In-process 6h refresh without cron |
+| **Frontend** | Leaflet.js + Chart.js | Lightweight, no framework needed |
+| **Typography** | Syne (display) + DM Sans (body) | Distinctive, editorial feel |
+| **Deploy** | Docker + Railway / Render | Free tier, auto-deploys from GitHub |
+| **Data** | JSON files | No DB overhead for hackathon scale |
+
+---
+
+## 📝 Ethical Scraping
+
+This project follows responsible scraping practices:
+
+- ✅ **Public data only** — no logins, no bypassing paywalls
+- ✅ **Respectful delays** — 1–2 second pause between every request
+- ✅ **No personal data** — no emails, phone numbers, or private profiles collected
+- ✅ **YouTube API within quota** — 10,000 free units/day; we use ~800/run
+- ✅ **Graceful failures** — every scraper has try/catch; one failed song doesn't break the run
+- ✅ **Read-only** — we never post, interact, or modify anything
+
+---
+
+## 🤔 Why This Project?
+
+Most hackathon data projects: scrape → bar chart → done.
+
+This project maps something **nobody has mapped before** — the emotional pulse of Indian cities through music, updated live. The insight that "Mumbai is heartbroken this week while Delhi is angry" is a story that:
+
+- 📰 Journalists would cover
+- 🎓 Researchers in music sociology would cite  
+- 👥 Regular people would share
+
+The technical stack is intentionally **full-pipeline**: scraping → NLP → API → interactive visualization, with real data that changes over time.
+
+---
+
+## 📄 License
+
+MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+<div align="center">
+
+Built for **Mindcase Hackathon 2025** · Made with 🎵 and Python
+
+*If this made you curious about what your city is feeling — that's the whole point.*
+
+</div>
